@@ -14,7 +14,8 @@ tags:
 Accessibility discussions in most scenarios cover the Web and more often now mobile apps as well.  
 One area that seems to not have received enough attention is accessibility of toys or games with software interfaces.  
 For example, I just got a leapfrog leapstart toy for my 3 year old. The toy is a device to which you attach leapfrog books and download the corresponding audio from their application. The toy then reads the book aloud as the child touches various things on the page.  
-The above description sounds specially good for a blind person like me who is always looking for ways to be able to read aloud books for my kid.  
+The above description sounds specially good for a blind person like me who is always looking for ways to be able to read aloud books for my kid.
+
 However, the leapfrog companion application is so painfully inaccessible that it is unbelievable. All that a screen reader gets out of the app is the title of the window and absolutely nothing else.  
 The result is that the brand new shiny toy has been relinquished to the pile of unused stuff by the end of its first day in our house.  
 

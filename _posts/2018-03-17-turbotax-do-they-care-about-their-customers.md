@@ -13,7 +13,9 @@ tags:
 ---
 It is tax season again. Very reluctantly, I finally started to file my return last weekend. Last year, I had used TurboTax.com and had a reasonably good experience in terms of accessibility. So, it made sense to continue using it with the added advantage that it will auto fill all the information that hasn't changed since last year.  
 But guess what, this year they decided to add some new product to their tax filing offerring and the first page that you land after logging in is sort of an advertisement for this new option.  
-This is the only place in their entire Website that you can start filing a new return and this page is now completely inaccessible. I kept trying for 2 days to figure out a way to get past the "start a new return" page without luck.  
+This is the only place in their entire Website that you can start filing a new return and this page is now completely inaccessible.
+
+I kept trying for 2 days to figure out a way to get past the "start a new return" page without luck.  
 I reached out multiple times to their customer support. After explaining to customer support what a screen reader is and that blind people also need to file taxes, I got a rep to take my query to their technical team.  
 The mind blowing response was:  
 "We regret to inform you that the Web page where you can start the tax filing is not compatible with screen reader technologies. Thanks for your feedback. Please let us know if we can assist you in any way"  
