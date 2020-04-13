@@ -3,7 +3,7 @@ id: 341
 title: IOS 11.1 email issues
 date: 2017-11-13T16:45:54+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=341
 permalink: /blog/ios-11-1-email-issues/
 dsq_thread_id:

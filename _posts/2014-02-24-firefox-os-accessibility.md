@@ -3,7 +3,7 @@ id: 263
 title: Firefox OS accessibility
 date: 2014-02-24T03:30:14+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=263
 permalink: /blog/firefox-os-accessibility/
 dsq_thread_id:

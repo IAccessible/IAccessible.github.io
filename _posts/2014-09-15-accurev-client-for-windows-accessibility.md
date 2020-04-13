@@ -3,7 +3,7 @@ id: 301
 title: Accurev client for windows accessibility
 date: 2014-09-15T03:02:01+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=301
 permalink: /blog/accurev-client-for-windows-accessibility/
 dsq_thread_id:

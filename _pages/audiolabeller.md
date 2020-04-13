@@ -1,12 +1,7 @@
 ---
-id: 294
 title: AudioLabeller
-date: 2014-04-24T01:49:42+00:00
-author: Manish
-layout: page
-guid: https://13.68.136.88/?page_id=294
-page_location:
-  - 'Yes'
+permalink: /AudioLabeller
+layout: single
 ---
 <h2>What is Audio Labeller</h2>
 <p>

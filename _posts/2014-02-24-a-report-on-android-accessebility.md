@@ -3,7 +3,7 @@ id: 266
 title: A report on Android Accessebility
 date: 2014-02-24T03:50:42+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=266
 permalink: /blog/a-report-on-android-accessebility/
 dsq_thread_id:

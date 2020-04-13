@@ -3,7 +3,7 @@ id: 339
 title: 'Google communication apps &#8211; design problems'
 date: 2017-11-13T16:21:02+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=339
 permalink: /blog/google-communication-apps-design-problems/
 dsq_thread_id:

@@ -3,7 +3,7 @@ id: 312
 title: 'voice over users &#8211; avoid IOS 8.02!'
 date: 2014-10-18T03:03:20+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=312
 permalink: /blog/voice-over-users-avoid-ios-8-02/
 dsq_thread_id:

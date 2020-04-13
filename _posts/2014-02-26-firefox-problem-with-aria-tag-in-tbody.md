@@ -3,7 +3,7 @@ id: 290
 title: Firefox | problem with ARIA tag in tbody
 date: 2014-02-26T23:45:27+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=290
 permalink: /blog/firefox-problem-with-aria-tag-in-tbody/
 dsq_thread_id:

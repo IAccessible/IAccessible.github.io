@@ -3,7 +3,7 @@ id: 221
 title: News and Updates
 date: 2014-02-17T17:52:39+00:00
 author: Manish
-layout: page
+layout: single
 guid: https://13.68.136.88/?page_id=221
 page_location:
   - 'Yes'

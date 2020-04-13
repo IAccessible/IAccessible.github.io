@@ -3,7 +3,7 @@ id: 353
 title: Soundscape and blindsquare
 date: 2018-05-17T15:57:34+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=353
 permalink: /blog/soundscape-and-blindsquare/
 categories:

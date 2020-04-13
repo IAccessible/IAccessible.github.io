@@ -3,7 +3,7 @@ id: 4
 title: Contact Us
 date: 2014-02-04T07:49:41+00:00
 author: Manish
-layout: page
+layout: single
 guid: https://13.68.136.88//?page_id=4
 dsq_thread_id:
   - ""

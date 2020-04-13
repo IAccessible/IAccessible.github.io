@@ -3,7 +3,7 @@ id: 347
 title: 'Amazon Alexa &#8211; The scary laugh'
 date: 2018-03-05T21:47:25+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=347
 permalink: /blog/amazon-alexa-the-scary-laugh/
 dsq_thread_id:

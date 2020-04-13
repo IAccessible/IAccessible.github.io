@@ -3,7 +3,7 @@ id: 355
 title: escape room games
 date: 2018-12-31T02:39:52+00:00
 author: Manish
-layout: post
+layout: single
 guid: http://iaccessible.net/?p=355
 permalink: /blog/escape-room-games/
 categories:

@@ -1,12 +1,6 @@
 ---
-id: 203
 title: Trainings
-date: 2014-02-17T15:11:56+00:00
-author: Manish
-layout: page
-guid: https://13.68.136.88/?page_id=203
-page_location:
-  - 'Yes'
+permalink: /trainings
 ---
 We conduct workshops and hands-on trainings on how to create accessible Web applications. Some of our trainings include:  
 ## [Comprehensive 3 day Web accessibility workshop](/trainings/3-day-accessibility-workshop/)

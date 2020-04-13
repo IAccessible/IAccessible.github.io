@@ -3,7 +3,7 @@ id: 351
 title: 'TurboTax &#8211; Do they care about their customers?'
 date: 2018-03-17T16:36:52+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=351
 permalink: /blog/turbotax-do-they-care-about-their-customers/
 categories:

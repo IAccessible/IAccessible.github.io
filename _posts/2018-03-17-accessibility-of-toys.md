@@ -3,7 +3,7 @@ id: 349
 title: Accessibility of toys
 date: 2018-03-17T15:37:07+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=349
 permalink: /blog/accessibility-of-toys/
 categories:

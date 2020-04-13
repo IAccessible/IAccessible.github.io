@@ -3,7 +3,7 @@ id: 336
 title: Voice over on Mac OS High Sierra and problems running parallels
 date: 2017-11-04T04:18:28+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=336
 permalink: /blog/voice-over-on-mac-os-high-sierra-and-problems-running-parallels/
 dsq_thread_id:

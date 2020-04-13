@@ -3,7 +3,7 @@ id: 333
 title: IOS 11.0 voice over issues
 date: 2017-11-04T03:38:28+00:00
 author: Manish
-layout: post
+layout: single
 guid: https://13.68.136.88/?p=333
 permalink: /blog/ios-11-0-voice-over-issues/
 dsq_thread_id:
