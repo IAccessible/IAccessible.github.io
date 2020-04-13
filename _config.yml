@@ -30,7 +30,8 @@ show_excerpts: true
 disqus:
   shortname: IAccessible
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic" 
 plugins:
   - jekyll-feed
 # Exclude from processing.
