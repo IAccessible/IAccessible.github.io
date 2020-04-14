@@ -29,6 +29,13 @@ url: "https://IAccessible.net" # the base hostname & protocol for your site, e.g
 show_excerpts: true
 name: Manish
 repository: IAccessible/IAccessible.github.io
+
+# Collections
+collections:
+  trainings:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -36,7 +43,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -47,6 +54,17 @@ defaults:
       type: pages
     values:
       layout: single
+#      sidebar:
+#        nav: "training"
+# training
+  - scope:
+      path: ""
+      type: trainings
+    values:
+      layout: single
+      sidebar:
+        nav: "training"
+  
   
 author:
   name: Manish
@@ -97,6 +115,7 @@ paginate: 5
 paginate_path: /page:num/
 include:
   - _pages
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
