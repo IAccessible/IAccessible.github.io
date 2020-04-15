@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 locale: en-US
 title: IAccessible
-subtitle                 : "All things accessible!"
+subtitle                 : " All things accessible!"
 email: manish@iaccessible.net
 description: >- # this means to ignore newlines until "baseurl:"
   All things accessible!
@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://IAccessible.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: __manish
 show_excerpts: true
-name: Manish
+name: &name "Manish"
 repository: IAccessible/IAccessible.github.io
 
 # Collections
@@ -43,7 +43,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
@@ -54,8 +54,9 @@ defaults:
       type: pages
     values:
       layout: single
-#      sidebar:
-#        nav: "training"
+      classes: wide
+      sidebar:
+        nav: "left"
 # training
   - scope:
       path: ""
@@ -68,7 +69,7 @@ defaults:
   
 author:
   name: Manish
-  twitter: _manish
+  twitter: __manish
 #  picture: https://api.adorable.io/avatars/285/johndoe.png
 twitter_username: __manish
 # github_username: manish10
@@ -107,8 +108,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-feed:
-  path: atom.xml
+#feed:
+#  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 5

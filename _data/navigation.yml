@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "blog"
+  - title: "Blog"
     url: /blog/
-  - title: "Trainings"
-    url: trainings
   - title: "Accessibility testing"
     url: web-accessibility-testing
-  - title: "AudioLabeller"
-    url: AudioLabeller
+  - title: "Trainings"
+    url: trainings
+  - title: "Contact us"
+    url: contact-us
 
 
 
@@ -47,7 +47,7 @@ left:
   - title: "Products"
     children:
       - title: AudioLabeller
-        url: /audiolabeller
+        url: AudioLabeller
   - title: Accessibility testing
     url: /web-accessibility-testing
   - title: "Trainings"
