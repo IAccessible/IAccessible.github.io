@@ -2,6 +2,8 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Accessital"
+    url: /accessital
   - title: "Accessibility testing"
     url: web-accessibility-testing
   - title: "Trainings"
@@ -46,9 +48,11 @@ training:
 left:
   - title: "Products"
     children:
-      - title: AudioLabeller
-        url: AudioLabeller
-  - title: Accessibility testing
+      - title: "Accessital"
+        url: /accessital
+      - title: "AudioLabeller"
+        url: /audioLabeller
+  - title: "Accessibility testing"
     url: /web-accessibility-testing
   - title: "Trainings"
     url: /trainings
