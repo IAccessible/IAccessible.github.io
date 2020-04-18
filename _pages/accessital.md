@@ -38,5 +38,3 @@ Some of our early adopters include the top non-profit organizations working with
 * Provides the a bility to split single book among multiple proof readers and  multi-step workflow to ensure book quality.
 * Enables efficient management of large number of book creation projects in parallel through multiple reports and dashboards .
 * Provides opportunities to people with disabilities to be employed to work from home.
-
-### Features overview
