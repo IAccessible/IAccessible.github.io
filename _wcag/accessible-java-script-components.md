@@ -1,9 +1,8 @@
 ---
-id: 63
 title: Accessible Java Script Components
 date: 2014-02-06T04:57:17+00:00
 author: Manish
-layout: page
+layout: single
 guid: 'https://13.68.136.88//?post_type=articles&#038;p=63'
 ---
 <div class="span9" id="main_content">
