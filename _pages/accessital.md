@@ -7,7 +7,12 @@ Create accessible digital books at low cost and large scale!
 
 ## What is Accessital?
 Accessital is a cloud-based service that allows organizations to manage the process of digital book creation over the Web. This allows  small and large organizations to   scale the process of accessible digital book creation to   be distributed over a large number of users, geographies, and time.  
-This 3 minute video created by one of our first clients describes the key features of the platform:
+
+### Learn about the problems solved by accessital, its key features, and hear from our customers:
+
+{%include video id="1s2xriwXoaGCIC1UL4uSOTCCTRb8kg6w6" provider="google-drive"%}
+
+If you are just looking for the key features of the platform, take a look at this 3 minute video created by one of our first clients:
 
 {%include video id="1l2YnBoSr9TlxmfyjG0DY5jmDdHn2IKcM" provider="google-drive" %}
 
