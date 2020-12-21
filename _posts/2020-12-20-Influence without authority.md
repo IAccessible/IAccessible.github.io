@@ -4,7 +4,7 @@ date: 2020-12-20
 author: Manish
 layout: single
 ---
-Driving accessibility through the Microsoft enterprise has given me a lot of lessons in influencing the direction of large and chaotic teams and individuals without any authority over them.  
+Driving accessibility through the Microsoft enterprise internal applications has given me a lot of lessons in influencing the direction of large and chaotic teams and individuals without any authority over them.  
 Some key factors that helped me include:  
 1. Clear data
 2. Lots of communication 
