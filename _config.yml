@@ -100,8 +100,9 @@ comments:
   
 # Build settings
 # theme: minima
+# theme: "minimal-mistakes-jekyll"
 # remote_theme: "mmistakes/jekyll-theme-basically-basic" 
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
