@@ -1,17 +1,38 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: About IAccessible
-layout: home
-classes: wide
-paginate: true
+title: IAccessible
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+#  overlay_image: /assets/materials/images-2.jpg
+  actions:
+    - label: "Contact Us"
+      url: "contact-us"
+#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Aaccessibility driven by people with disabilities!"
+intro: 
+  - title : "People with disabilities power accessibility in your products"
+  - excerpt: 'leading organizations use IAccessible  to connect to people with disabilities for  accessibility testing, training, and design.'
+  
+
+skill:
+  - title : 'Our skills and experience'
+  - excerpt: >
+      IAccessible is  a social enterprise with years of experience connecting product makers to people with disabilities to drive accessibility in Web and mobile applications.  
+      
+      We collaborate with non-profits across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, these people have a lifetime of experience as  users of accessibility products and solutions for their day-to-day living.
+
+services:
+  - title: Accessibility Testing
+  - excerpt: >
+      
 author_profile: false
-sidebar:
-  nav: "left"
+
 ---
-<p>We are a social enterprise with years of experience building applications that promote education and employability for people with disabilities.</p>
-<p>The group is led by a blind software architect with over 20  years of software industry experience building   and driving accessibility in the enterprise . Besides his professional experience building accessible software, he has a lifetime of experience as a user of accessibility products and solutions for his day-to-day living.</p>
-<p>We also work with many not-for-profit organizations working with people with various kinds of disabilities at a grassroots level in cities and villages in the developed and developing countries around the world.</p>
+{% include feature_row id="intro" %}
+{% include feature_row id="skill" %}
 <h2><a href="/trainings">Trainings</a></h2>
 <p>We conduct workshops and hands-on trainings on how to create accessible Web applications. Some of our trainings include:</p>
 <ul>
