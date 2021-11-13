@@ -3,24 +3,19 @@ title: AudioLabeller
 permalink: /AudioLabeller
 layout: single
 ---
-<h2>What is Audio Labeller</h2>
-<p>
-AudioLabeller is an Android app that allows you to use NFC stickers to create audio labels that are spoken any time you touch them with your phone.
-</p>
-<p>
-low vision and blind people can use off the shelf NFC stickers to label things like medicine bottles, physical files, CDs and DVDs, and even clothes.
-</p>
-<br/>
-<h2>Where can I get the app?</h2>
-<p/>
-You can get the <a href="https://play.google.com/store/apps/details?id=net.iaccessible.audioLabeller">AudioLabeller app</a> in the google play store.
-<br/>
-<h2>Where can I buy the required NFC stickers?</h2>
-<p/>
-We will very soon make it possible for you to order pre-initialized NFC stickers from within this app. For Now, you can buy tags from the following locations.
-<br/>
+## What is Audio Labeller
+AudioLabeller is an Android app that allows you to use NFC stickers to create audio labels that are spoken any time you touch them with your phone.  
+
+low vision and blind people can use off the shelf NFC stickers to label things like medicine bottles, physical files, CDs and DVDs, and even clothes.  
+
+## Where can I get the app?
+You can get the <a href="https://play.google.com/store/apps/details?id=net.iaccessible.audioLabeller">AudioLabeller app</a> in the google play store.  
+
+## Where can I buy the required NFC stickers?
+We will very soon make it possible for you to order pre-initialized NFC stickers from within this app. For Now, you can buy tags from the following locations:  
+
 <SCRIPT charset="utf-8" type="text/javascript" src="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fiacce0e-20%2F8001%2F65e0e582-0728-4d84-8a1c-41ba7e989d63"> </SCRIPT> <NOSCRIPT><A HREF="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fiacce0e-20%2F8001%2F65e0e582-0728-4d84-8a1c-41ba7e989d63&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>
-<br/>
+
 
 <h2>How it works:</h2>
 <p/>
