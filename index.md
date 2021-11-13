@@ -37,7 +37,7 @@ skill:
 services:
   - image_path : "assets/materials/images2.jpg"
     title: "Accessibility Testing"
-    url: "web-accessibility-testing"
+    url: "testing"
     btn_label : "Learn more about testing"
     excerpt: |
       Our trusted tester certified experts are people with disabilities having  lived experience of using various assistive technologies. We will comprehensively test your   Web  and mobile applications for accessibility and compliance to  WCAG 2.1 or section 508. We also test and remediate   PDF, word, or power point presentations.

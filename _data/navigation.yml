@@ -1,12 +1,11 @@
 # main links links
 main:
-  - title: "Accessibility Services"
-    url : "accessibility-services"
-#    children:
-#      - title : "Accessibility testing"
-#        url: web-accessibility-testing
+  - title: "Accessibility Testing"
+    url : "testing"
   - title: "Trainings"
     url: trainings
+  - title : "design"
+    url : design
   - title : "products"
     url : "products"
   - title : "About us"
@@ -58,7 +57,7 @@ left:
       - title: "AudioLabeller"
         url: /audioLabeller
   - title: "Accessibility testing"
-    url: /web-accessibility-testing
+    url: /testing
   - title: "Trainings"
     url: /trainings
     children:
@@ -70,3 +69,5 @@ left:
         url: /trainings/2-day-accessibility-testing-primer/
       - title: "3-day Accessibility workshop"
         url: /trainings/3-day-accessibility-workshop/
+  - title : "design"
+    url : design

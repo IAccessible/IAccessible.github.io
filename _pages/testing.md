@@ -2,7 +2,9 @@
 title: Accessibility testing
 permalink: /testing
 ---
-We have a team of experienced architects and developers to help comprehensively test your rich Internet applications and Web sites for accessibility and compliance to W3C accessibility guidelines AKA 508 or ADA compliance.  
-In addition, we also provide services to fix accessibility related problems in your applications by becoming a part of your core development team. 
+Our certified experts are people with disabilities having  lived experience of using various assistive technologies to:
+* comprehensively test your rich Internet applications,  Web sites, and mobile IOS and Android apps  for accessibility and compliance to WCAG 2.1, section 508 or ADA compliance.
+* Test and remediate documents, such as PDF, word, or power point presentations, for accessibility.
+* Author Accessibility Conformance Reports (ACR) and VPATs.  
 
 Please [contact us](/contact-us) to help us understand your specific needs.
