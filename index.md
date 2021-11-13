@@ -20,7 +20,6 @@ clients:
   - image_path : "./assets/images/accessibility.png"
     alt : "Eskalera Inc"
     title : "Eskalera Inc"
-  #- image_path : "./assets/images/opus-green.svg"
   - image_path : "./assets/images/racloop.jpg"
     alt : "Racloop technologies"
     title : "Racloop technologies"
@@ -41,17 +40,21 @@ services:
     url: "web-accessibility-testing"
     btn_label : "Learn more about testing"
     excerpt: |
-      Our certified experts are people with disabilities having  lived experience of using various assistive technologies to:
-      * comprehensively test your rich Internet applications,  Web sites, and mobile IOS and Android apps  for accessibility and compliance to W3C accessibility guidelines AKA WCAG 2.1, section 508 or ADA compliance.
-      * Test and remediate documents, such as PDF, word, or power point presentations, for accessibility.
-      * Author Accessibility Conformance Reports (ACR) and VPATs.  
-      
-  - title: Trainings
+      Our trusted tester certified experts are people with disabilities having  lived experience of using various assistive technologies. We will comprehensively test your   Web  and mobile applications for accessibility and compliance to  WCAG 2.1 or section 508. We also test and remediate   PDF, word, or power point presentations.
+  - image_path : "assets/materials/images2.jpg"
+    url: "trainings"
+    btn_label : "Learn more about trainings"
+    title: Trainings
     excerpt: |
-      We conduct workshops and hands-on trainings on how to create accessible Web and mobile applications:  
-      * Half day Sensitization workshop: Specially useful for people involved in product and platform strategy and usability decisions. This workshop provides an overview of the accessibility problem helping learners understand what are disabilities, how do people with disabilities access computers and software, what is the need to build accessible and inclusive solutions - pragmatic reasons and legislations, what does it take to build accessible Web applications -- costs and technologies involved and so on.  
-      * 3 day Comprehensive Web accessibility training: This training helps Web developers, designers, and architects understand how to develop and test accessible Rich Internet applications that comply with the W3C accessibility guidelines.  
-      * 1 day accessibility testing primer: Targetted primarily for the quality assurance engineers, this training helps learn the tools and techniques to test if a Web application is accessible and meets the various W3C guidelines compliance or other legal requirements, such as section 508 or ADA etc.  
+      We conduct workshops and hands-on trainings on how to create accessible Web and mobile applications. The trainings are customized to your specific needs and meet the learners where they are.  
+  - image_path : "assets/materials/images2.jpg"
+    url: "design"
+    btn_label : "Learn more about our  Design review services"
+    title: Accessibility during design
+    excerpt: |
+      Did you know, you can prevent over 60% of accessibility bugs by considering accessibility during the design of your applications?  
+      Build an accessible and usable   product  right the first time and save costly bug fixes later.
+
 
 author_profile: false
 ---
