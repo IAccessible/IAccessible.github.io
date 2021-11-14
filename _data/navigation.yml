@@ -2,17 +2,17 @@
 main:
   - title: "Accessibility Testing"
     url : "testing"
-  - title: "Trainings"
+  - title: "Training"
     url: trainings
-  - title : "design"
+  - title : "Design"
     url : design
-  - title : "products"
+  - title : "Products"
     url : "products"
   - title : "About us"
     url : "about-us"
   - title: "Contact us"
     url: contact-us
-  - title : "blog"
+  - title : "Blog"
     url : "blog"
 
 

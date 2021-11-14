@@ -1,14 +1,8 @@
 ---
 id: 4
 title: Contact Us
-date: 2014-02-04T07:49:41+00:00
-author: Manish
+permalink : "/contact-us"
 layout: single
-guid: https://13.68.136.88//?page_id=4
-dsq_thread_id:
-  - ""
-page_location:
-  - 'No'
 ---
 
           To find out more about our products and services, please contact us at:
@@ -16,6 +10,13 @@ page_location:
 ## iAccessible
 mail: <a href="mailto:info@iaccessible.net">info@iaccessible.net</a>
 
-## Trainer Contacts
+## Our team
   <strong>Manish Agrawal</strong>
+  
 <a href="mailto:manish@iaccessible.net">manish@iaccessible.net</a>
+
+  <strong>Rajan Punchauty</strong>
+  
+<a href="mailto:rajan@iaccessible.net">rajan@iaccessible.net</a>
+
+  

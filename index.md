@@ -14,7 +14,7 @@ header:
 excerpt: "Aaccessibility driven by people with disabilities!"
 intro: 
   - title : "People with disabilities power accessibility in your products"
-    excerpt: 'leading organizations use IAccessible  to connect to people with disabilities for  accessibility testing, training, and design.'
+    excerpt: 'Leading organizations use IAccessible to connect to people with disabilities for accessibility testing, training, and design reviews.'
     
 clients:
   - image_path : "./assets/images/accessibility.png"
@@ -30,7 +30,7 @@ clients:
 skill:
   - title : 'Our skills and experience'
     excerpt: >
-      IAccessible is  a social enterprise with years of experience connecting product makers to people with disabilities to drive accessibility in Web and mobile applications.  
+      IAccessible is a social enterprise with years of experience connecting product makers to people with disabilities to drive accessibility in Web and mobile applications.  
       
       We collaborate with non-profits across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, these people have a lifetime of experience as  users of accessibility products and solutions for their day-to-day living.
 
@@ -40,7 +40,7 @@ services:
     url: "testing"
     btn_label : "Learn more about testing"
     excerpt: |
-      Our trusted tester certified experts are people with disabilities having  lived experience of using various assistive technologies. We will comprehensively test your   Web  and mobile applications for accessibility and compliance to  WCAG 2.1 or section 508. We also test and remediate   PDF, word, or power point presentations.
+      We are a team of expert assistive technology users with lived experience of disabilities. We test Web and mobile applications against WCAG 2.1 & section 508 for accessibility compliance.
   - image_path : "assets/materials/images2.jpg"
     url: "trainings"
     btn_label : "Learn more about trainings"
@@ -49,8 +49,8 @@ services:
       We conduct workshops and hands-on trainings on how to create accessible Web and mobile applications. The trainings are customized to your specific needs and meet the learners where they are.  
   - image_path : "assets/materials/images2.jpg"
     url: "design"
-    btn_label : "Learn more about our  Design review services"
-    title: Accessibility during design
+    btn_label : "Learn more about design review"
+    title: Design Review
     excerpt: |
       Did you know, you can prevent over 60% of accessibility bugs by considering accessibility during the design of your applications?  
       Build an accessible and usable   product  right the first time and save costly bug fixes later.
@@ -58,7 +58,7 @@ services:
 
 author_profile: false
 ---
-{% include feature_row id="intro" %}
-{% include gallery id="clients" caption="our clients" %}
-{% include feature_row id="skill" %}
+{% include feature_row id="intro" type="center" %}
+{% include gallery id="clients" %}
+{% include feature_row id="skill" type="center" %}
 {% include feature_row id="services" %}
