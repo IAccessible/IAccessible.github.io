@@ -56,10 +56,8 @@ defaults:
     values:
       layout: single
       classes: wide
-      sidebar:
-        nav: "left"
       atom_feed:
-        hide : false
+        hide : true
 # training
   - scope:
       path: ""
@@ -116,8 +114,8 @@ plugins:
 #  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 5
-paginate_path: /page:num/
+# paginate: 5
+# paginate_path: /page:num/
 include:
   - _pages
   
