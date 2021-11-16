@@ -59,6 +59,7 @@ services:
 author_profile: false
 ---
 {% include feature_row id="intro" type="center" %}
-{% include gallery id="clients" %}
+<!-- {% include gallery id="clients" %} -->
+{%include banner.html%}
 {% include feature_row id="skill" type="center" %}
 {% include feature_row id="services" %}
