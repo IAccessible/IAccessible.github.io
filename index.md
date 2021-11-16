@@ -5,8 +5,8 @@ title: IAccessible
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: "./assets/images/sample1.png"
+  overlay_filter: "0.1"
+  overlay_image: "./assets/images/heroImage.png"
   actions:
     - label: "Contact Us"
       url: "contact-us"
