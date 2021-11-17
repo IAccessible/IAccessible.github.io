@@ -1,6 +1,6 @@
 ---
 title: Accessibility during Design
-permalink: /Design
+permalink: /design
 ---
 By considering accessibility and getting inputs  from real users with disabilities during design, you can save more than 60% of accessibility bugs later in your product lifecycle.  
 
