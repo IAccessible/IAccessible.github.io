@@ -43,20 +43,20 @@ services:
   - image_path : "assets/materials/images2.jpg"
     title: "Start accessibility assessment"
     url: "assessment"
-    btn_label : "Learn more about Assessments"
+    btn_label : "More about assessments"
     excerpt: |
       Use a team of expert assistive technology users with lived experience of disabilities to assess your web and mobile applications against WCAG 2.1 & section 508 standards for compliance.
   - image_path : "assets/materials/images2.jpg"
     url: "design"
-    btn_label : "Learn more about design reviews"
+    btn_label : "More about design reviews"
     title: Design accessible experiences
     excerpt: |
-      Did you know, you can prevent over 60% of accessibility bugs by considering accessibility during the design of your applications?  
+      Did you know, you can prevent 60% of accessibility bugs during the design of your applications?  
       Build an accessible and usable   product  right the first time and save costly bug fixes later.
   - image_path : "assets/materials/images2.jpg"
     url: "trainings"
-    btn_label : "Learn more about trainings"
-    title: Become accessibility experts
+    btn_label : "More about trainings"
+    title: Become an accessibility expert
     excerpt: |
       Sign-up for our workshops and hands-on training on how to create accessible web and mobile applications. We customize them to your specific needs and meet the learners where they are.
 
@@ -65,7 +65,7 @@ author_profile: false
 
 
 <!-- {% include feature_row id="intro" type="center" %} -->
-
+## Get started on your accessibility journey
 {% include feature_row id="services" %}
 {% include feature_row id="goal" type="center" %}
 {% include gallery  id="clients"   layout="third" caption="our clients" %}
