@@ -47,6 +47,14 @@ services:
     excerpt: |
       Use a team of expert assistive technology users with lived experience of disabilities to assess your web and mobile applications against WCAG 2.1 & section 508 standards for compliance.
   - image_path : "assets/materials/images2.jpg"
+    title: "Get a competitive edge with a VPAT report"
+    url: "assessment#showcase-your-accessibility-conformance-with-standardized-reports"
+    btn_label : "More about VPATs"
+    excerpt: |
+      We create VPAT reports to showcase the accessibility conformance of your application . Our comprehensive VPAT reports provide results against Section 508, WCAG 2.1, and EN 341 549 European standard. 
+
+other_services:
+  - image_path : "assets/materials/images2.jpg"
     url: "design"
     btn_label : "More about design reviews"
     title: Design accessible experiences
@@ -65,8 +73,9 @@ author_profile: false
 
 
 <!-- {% include feature_row id="intro" type="center" %} -->
-## Get started on your accessibility journey
-{% include feature_row id="services" %}
+<!-- ## Get started on your accessibility journey -->
+{% include feature_row id="services" type="center" %}
+{% include feature_row id="other_services" type="center"  %}
 {% include feature_row id="goal" type="center" %}
 {% include gallery  id="clients"   layout="third" caption="our clients" %}
 <!-- {%include banner.html%} -->
