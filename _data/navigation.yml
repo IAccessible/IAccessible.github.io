@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Accessibility Testing"
-    url : "testing"
+  - title: "Accessibility Assessment"
+    url : "assessment"
   - title: "Training"
     url: trainings
   - title : "Design"
@@ -56,8 +56,8 @@ left:
         url: /accessital
       - title: "AudioLabeller"
         url: /audioLabeller
-  - title: "Accessibility testing"
-    url: /testing
+  - title: "Accessibility assessment"
+    url: /assessment
   - title: "Trainings"
     url: /trainings
     children:

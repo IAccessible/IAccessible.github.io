@@ -1,6 +1,6 @@
 ---
 title: Accessibility Assessment
-permalink: /testing
+permalink: /assessment
 ---
 Our experts who have lived experience of disabilities assess the accessibility of your product against industry guidelines and standards. We provide detailed standardized reports and guidance for remediation. 
 
