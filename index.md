@@ -40,13 +40,13 @@ goal:
       Our mission is to help companies build accessible and inclusive products through the power of design, reviews, testing, and training by users with disabilities. We do this by collaborating with non-profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
 
 services:
-  - image_path : "assets/materials/images2.jpg"
+  - image_path : "assets/images/assessment.jpg"
     title: "Start accessibility assessment"
     url: "assessment"
     btn_label : "More about assessments"
     excerpt: |
       Use a team of expert assistive technology users with lived experience of disabilities to assess your web and mobile applications against WCAG 2.1 & section 508 standards for compliance.
-  - image_path : "assets/materials/images2.jpg"
+  - image_path : "assets/images/vpat.jpg"
     title: "Get a competitive edge with a VPAT report"
     url: "assessment#showcase-your-accessibility-conformance-with-standardized-reports"
     btn_label : "More about VPATs"
@@ -54,14 +54,14 @@ services:
       We create VPAT reports to showcase the accessibility conformance of your application . Our comprehensive VPAT reports provide results against Section 508, WCAG 2.1, and EN 341 549 European standard. 
 
 other_services:
-  - image_path : "assets/materials/images2.jpg"
+  - image_path : "assets/images/experience.jpg"
     url: "design"
     btn_label : "More about design reviews"
     title: Design accessible experiences
     excerpt: |
       Did you know, you can prevent 60% of accessibility bugs during the design of your applications?  
       Build an accessible and usable   product  right the first time and save costly bug fixes later.
-  - image_path : "assets/materials/images2.jpg"
+  - image_path : "assets/images/expert.jpg"
     url: "trainings"
     btn_label : "More about trainings"
     title: Become an accessibility expert
