@@ -74,8 +74,8 @@ author_profile: false
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 <!-- ## Get started on your accessibility journey -->
-{% include feature_row id="services" type="center" %}
-{% include feature_row id="other_services" type="center"  %}
+{% include feature_row id="services"  %}
+{% include feature_row id="other_services"   %}
 {% include feature_row id="goal" type="center" %}
 {% include gallery  id="clients"   layout="third" caption="our clients" %}
 <!-- {%include banner.html%} -->
