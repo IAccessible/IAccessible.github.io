@@ -19,20 +19,25 @@ intro:
 clients:
   - image_path : "./assets/images/accessibility.png"
     alt : "Eskalera Inc"
+    url : "about-us"
     title : "Eskalera Inc"
-    image_caption : "Eskalera Inc"
-    excerpt: |
-      Accessibility assessment for line of business apps
+#    image_caption : "Eskalera Inc"
+#    excerpt: |
+#      Accessibility assessment for line of business apps
   - image_path : "./assets/images/racloop.jpg"
     alt : "Racloop technologies"
+    url  : "about-us"
+#    image_height : 300
     title : "Racloop technologies"
-    excerpt: |
-      Trained Developers on accessibility
+#    excerpt: |
+#      Trained Developers on accessibility
   - image_path : "./assets/images/voice_analytics.png"
     alt : "Saksham"
+    image_caption : "Saksham"
+    url : "about-us"
     title : "Saksham"
-    excerpt: |
-      Accessible ebook publishing 
+#    excerpt: |
+#      Accessible ebook publishing 
 
 goal:
   - title : 'Join us to empower people with disabilities'
@@ -41,12 +46,16 @@ goal:
 
 services:
   - image_path : "assets/images/assessment.jpg"
+    image_width : '124'
+    image_height: '121'
     title: "Start accessibility assessment"
     url: "assessment"
     btn_label : "More about assessments"
     excerpt: |
       Use a team of expert assistive technology users with lived experience of disabilities to assess your web and mobile applications against WCAG 2.1 & section 508 standards for compliance.
   - image_path : "assets/images/vpat.jpg"
+    image_width : '124'
+    image_height: '121'
     title: "Get a competitive edge with a VPAT report"
     url: "assessment#showcase-your-accessibility-conformance-with-standardized-reports"
     btn_label : "More about VPATs"
@@ -55,6 +64,8 @@ services:
 
 other_services:
   - image_path : "assets/images/experience.jpg"
+    image_width : '124'
+    image_height: '121'
     url: "design"
     btn_label : "More about design reviews"
     title: Design accessible experiences
@@ -62,6 +73,8 @@ other_services:
       Did you know, you can prevent 60% of accessibility bugs during the design of your applications?  
       Build an accessible and usable   product  right the first time and save costly bug fixes later.
   - image_path : "assets/images/expert.jpg"
+    image_width : '124'
+    image_height: '121'
     url: "trainings"
     btn_label : "More about trainings"
     title: Become an accessibility expert
@@ -77,5 +90,5 @@ author_profile: false
 {% include feature_row id="services"  %}
 {% include feature_row id="other_services"   %}
 {% include feature_row id="goal" type="center" %}
-{% include gallery  id="clients"   layout="third" caption="our clients" %}
+{% include gallery   id="clients"     layout="third" caption="our clients" %}
 <!-- {%include banner.html%} -->
