@@ -48,7 +48,7 @@ services:
   - image_path : "assets/images/assessment.jpg"
     image_width : '124'
     image_height: '121'
-    title: "Start accessibility assessment"
+    title: "Get started with an  accessibility assessment"
     url: "assessment"
     btn_label : "More about assessments"
     excerpt: |
@@ -60,7 +60,7 @@ services:
     url: "assessment#showcase-your-accessibility-conformance-with-standardized-reports"
     btn_label : "More about VPATs"
     excerpt: |
-      We create VPAT reports to showcase the accessibility conformance of your application . Our comprehensive VPAT reports provide results against Section 508, WCAG 2.1, and EN 341 549 European standard. 
+      We create VPAT reports to showcase the accessibility conformance of your application . Our VPAT reports provide results against Section 508, WCAG 2.1, and EN 341 549 European standard. 
 
 other_services:
   - image_path : "assets/images/experience.jpg"
