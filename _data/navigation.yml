@@ -1,0 +1,73 @@
+# main links links
+main:
+  - title: "Accessibility Assessment"
+    url : "assessment"
+  - title: "Training"
+    url: trainings
+  - title : "Design"
+    url : design
+  - title : "Products"
+    url : "products"
+  - title : "About us"
+    url : "about-us"
+  - title: "Contact us"
+    url: contact-us
+  - title : "Blog"
+    url : "blog"
+
+
+
+# training sidebar
+
+# trainings
+training:
+  - title: "Half day accessibility strategy workshop"
+    url: /trainings/half-day-accessibility-strategy-workshop
+    children:
+      - title: "Strategy Workshop Agenda"
+        url: "/trainings/half-day-accessibility-strategy-workshop/Agenda"
+  - title: "Half day Developer quick start"
+    url: /trainings/half-day-accessibility-quick-start-for-developers
+    children:
+      - title: "quick start agenda"
+        url: "/trainings/half-day-accessibility-quick-start-for-developers/agenda"
+  - title: "2-day Accessibility Testing primer"
+    url: /trainings/2-day-accessibility-testing-primer/
+    children:
+      - title: "Accessibility testing primer agenda"
+        url: "/trainings/2-day-accessibility-testing-primer/agenda"
+  - title: "3-day Accessibility workshop"
+    url: /trainings/3-day-accessibility-workshop/
+    children:
+      - title: "3-day workshop agenda"
+        url: /trainings/3-day-accessibility-workshop/agenda
+  - title: "reference materials"
+    url: /trainings/reference-materials
+
+
+
+# pages  sidebar
+
+# pages
+left:
+  - title: "Products"
+    children:
+      - title: "Accessital"
+        url: /accessital
+      - title: "AudioLabeller"
+        url: /audioLabeller
+  - title: "Accessibility assessment"
+    url: /assessment
+  - title: "Trainings"
+    url: /trainings
+    children:
+      - title: "Half day accessibility strategy workshop"
+        url: /trainings/half-day-accessibility-strategy-workshop
+      - title: "Half day Developer quick start"
+        url: /trainings/half-day-accessibility-quick-start-for-developers
+      - title: "2-day Accessibility Testing primer"
+        url: /trainings/2-day-accessibility-testing-primer/
+      - title: "3-day Accessibility workshop"
+        url: /trainings/3-day-accessibility-workshop/
+  - title : "design"
+    url : design
