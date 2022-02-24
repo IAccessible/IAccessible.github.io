@@ -40,8 +40,7 @@ clients:
 #      Accessible ebook publishing 
 
 goal:
-  - title : 'Join us to empower people with disabilities'
-    excerpt: >
+  - excerpt: >
       Our mission is to help companies build accessible and inclusive products through the power of design, reviews, testing, and training by users with disabilities. We do this by collaborating with non-profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
 
 services:
@@ -89,6 +88,6 @@ author_profile: false
 <!-- ## Get started on your accessibility journey -->
 {% include feature_row id="services"  %}
 {% include feature_row id="other_services"   %}
-{% include feature_row id="goal" type="center" %}
+{% include feature_row id="goal" type="center"   title = 'Join us to empower people with disabilities' %}
 {% include gallery   id="clients"     layout="third" caption="our clients" %}
 <!-- {%include banner.html%} -->
