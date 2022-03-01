@@ -77,7 +77,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
 
 <!--[if IE]>
-
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -98,7 +97,163 @@
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- end custom head snippets -->
-
+<style>
+  .archive__item-body_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .archive__item-body_2_h1 {
+    width: 430px;
+    font-size: 44px;
+    text-align: left;
+    margin-top: 56px;
+    line-height: 56px;
+  }
+  .archive__item-body_2_p {
+    width: 200px;
+    border-radius: 5px;
+    background-color: #33383b;
+    color: #f2f3f3;
+    margin-top: 34px;
+    font-size: 18px;
+    padding:6px 14px 8px 14px;
+    text-align: center;
+  
+  }
+  .archive__item-body_2_img {
+    width: 520px;
+  }
+  .archive__item-body_3_h1 {
+    margin: 60px 0px 54px 0px;
+    font-size: 36px;
+  }
+  .archive__item-body_3_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+  
+  }
+  .archive__item-body_4_div {
+    justify-content: center;
+    width: 300px;
+  }
+  .archive__item-body_5_div {
+    width: 100px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .archive__item-body_5_img {
+    width: 100%;
+    height: 90px;
+  }
+  .archive__item-body_5_p {
+    font-size: 20px;
+  }
+  .archive__item-body_4_p {
+    width: 140px;
+    border-radius: 5px;
+    padding: 6px 14px 8px 14px;
+    text-align: center;
+    background-color: #33383b;
+    color: #f2f3f3;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 8px;
+    }
+  
+    .archive__item-body_6_div {
+      justify-content: center;
+      width: 300px;
+    }
+    .archive__item-body_6_Subdiv {
+      width: 100px;
+      height: 100px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+    .archive__item-body_6_Subdiv img {
+      width: 95px;
+      height: 92px;
+    }  
+    .archive__item-body_6_Subdiv_p {
+      font-size: 20px;
+  
+    }
+    .archive__item-body_7_div {
+      justify-content: center;
+      width: 300px;
+  
+    }
+    .archive__item-body_7_Subdiv {
+      width: 100px;
+      height: 100px;
+      border-radius: 80px;
+      margin-right: auto;
+      margin-left: auto;
+  
+    }
+    .archive__item-body_7_Subdiv img {
+      width: 100px;
+      height: 90px;
+  
+    }
+    .archive__item-body_7_div_p {
+      font-size: 20px;
+  
+    }
+  .archive__item-body_8_h1 {
+    margin: 50px 0px 32px 0px;
+    font-size: 36px;
+  }
+  .archive__item-body_8_div {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 12px 0px;
+    justify-content: space-between;
+  }
+  .archive__item-body_8_div_img {
+    max-width: 430px;
+    height: 330px;
+  }
+  .archive__item-body_8_div_p {
+  text-align: left;
+  font-size: 20px;
+  
+  }
+  .archive__item-body_9_P {
+  width: 130px;
+  border-radius: 5px;
+  padding: 6px 14px 8px 14px;
+  text-align: center;
+  background-color: #33383b;
+  color: #f2f3f3;
+  margin-top: 24px;
+  font-size: 18px;
+  }
+  .archive__item-body_10_h1 {
+    margin: 50px 0px 32px 16px;
+    font-size: 36px;
+  }
+  .archive__item-body_11_div {
+    width: 280px;
+    height: 440px;
+    border: 1px solid rgb(179, 179, 179,0.6);
+    border-radius: 42px;
+    box-shadow: 1px 1px 1px 1px rgb(209, 199, 199);
+    padding: 34px;
+    margin-bottom: 24px;
+  
+  }
+  .archive__item-body_11_p {
+    margin: 16px 20px 0 20px;
+    text-align: center;
+  }
+  </style>
 
   </head>
 
@@ -174,7 +329,7 @@
 
 
 
-<div style="padding: 20px 5%;">
+<div style="padding: 20px 5%;height: 90vh;">
   <div class="archive__item">
     
 
@@ -182,10 +337,7 @@
       <div class="archive__item-body_2">
         <div>
           <h1 class="archive__item-body_2_h1">People with disabilities power accessibility in your products</h1>
-          <a href="/about-us" style="text-decoration: none;">
-
-            <p class="archive__item-body_2_p" style="font-size: 18px;">Free Assessment</p>
-          </a>
+          <p class="archive__item-body_2_p" style="font-size: 18px;">Free Assessment</p>
          
         </div>
           <img class="archive__item-body_2_img" src="./assets/images/home-img.png" alt="">
@@ -208,7 +360,6 @@
 
 
 <div id="main" role="main">
-  <h2 class="archive__item-body_8_h1">Get started on your accessibility journey</h2>
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="IAccessible">
     <meta itemprop="description" content="People with disabilities power accessibility in your products">
@@ -247,7 +398,7 @@
  -->
 <!-- ## Get started on your accessibility journey -->
 
-<div class="feature__wrapper" style="margin-top: 60px;">
+<div class="feature__wrapper">
 
   
     <div class="feature__item">
@@ -261,7 +412,7 @@
 
         <div class="archive__item-body">
           
-            <h3 class="archive__item-title">Get an accessibility assessment</h3>
+            <h2 class="archive__item-title">Get started with an  accessibility assessment</h2>
           
 
           
@@ -272,7 +423,7 @@
           
 
           
-            <p><a href="/assessment" class="archive__item-body_2_p" style="text-decoration: none;color: #fff;">More about assessments</a></p>
+            <p><a href="/assessment" class="btn ">More about assessments</a></p>
           
         </div>
       </div>
@@ -289,7 +440,7 @@
 
         <div class="archive__item-body">
           
-            <h3 class="archive__item-title">Get a VPAT report</h3>
+            <h2 class="archive__item-title">Get a competitive edge with a VPAT report</h2>
           
 
           
@@ -300,7 +451,7 @@
           
 
           
-            <p><a href="/assessment#showcase-your-accessibility-conformance-with-standardized-reports" class="archive__item-body_2_p" style="text-decoration: none;color: #fff;">More about VPATs</a></p>
+            <p><a href="/assessment#showcase-your-accessibility-conformance-with-standardized-reports" class="btn ">More about VPATs</a></p>
           
         </div>
       </div>
@@ -323,19 +474,19 @@
 
         <div class="archive__item-body">
           
-            <h3 class="archive__item-title">Design accessible experiences</h3>
+            <h2 class="archive__item-title">Design accessible experiences</h2>
           
 
           
             <div class="archive__item-excerpt">
-              <p>Did you know, you can prevent 60% of accessibility bugs during the design of your applications? 
+              <p>Did you know, you can prevent 60% of accessibility bugs during the design of your applications?<br />
 Build an accessible and usable   product  right the first time and save costly bug fixes later.</p>
 
             </div>
           
 
           
-            <p><a href="/design" class="archive__item-body_2_p" style="text-decoration: none;color: #fff;">More about design reviews</a></p>
+            <p><a href="/design" class="btn ">More about design reviews</a></p>
           
         </div>
       </div>
@@ -352,7 +503,7 @@ Build an accessible and usable   product  right the first time and save costly b
 
         <div class="archive__item-body">
           
-            <h3 class="archive__item-title">Become an accessibility expert</h3>
+            <h2 class="archive__item-title">Become an accessibility expert</h2>
           
 
           
@@ -363,7 +514,7 @@ Build an accessible and usable   product  right the first time and save costly b
           
 
           
-            <p><a href="/trainings" class="archive__item-body_2_p" style="text-decoration: none;color: #fff;">More about trainings</a></p>
+            <p><a href="/trainings" class="btn ">More about trainings</a></p>
           
         </div>
       </div>
@@ -377,22 +528,19 @@ Build an accessible and usable   product  right the first time and save costly b
 
 
 
-<h2 class="archive__item-body_8_h1">Join us to empower people with disabilities</h2>
+<h1 class="archive__item-body_8_h1">Join us to empower people with disabilities</h1>
 <div class="archive__item-body_8_div">
-  <div> 
-    <img  src="./assets/images/story.jpg" alt="" class="archive__item-body_8_div_img">
+  <div style="width: 40%;"> 
+    <img  src='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg' alt="" class="archive__item-body_8_div_img">
   </div>
-  <div class="mrt">
+  <div style="width: 60%;">
     <p class="archive__item-body_8_div_p">
       Our mission is to help companies build accessible
   and inclusive products through the power of design,
   reviews, testing, and training by users with disabilities. We do this by collaborating with non- profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and
   design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
     </p>
-    <a href="/about-us" style="text-decoration: none;">
-      <p class="archive__item-body_9_P" style="font-size: 18px;">Our Story</p>
-
-    </a>
+    <p class="archive__item-body_9_P" style="font-size: 18px;">Our Story</p>
   </div>
 
 </div>
@@ -407,38 +555,38 @@ Build an accessible and usable   product  right the first time and save costly b
 
 
 
-<h2 class="archive__item-body_10_h1">Our Customers</h2>
+<h1 class="archive__item-body_10_h1">Our Customers</h1>
 <figure class="third " style="padding: 12px 16px;" >
 
   <div class="archive__item-body_11_div">
     <img src="/assets/images/accessibility.png" alt="Eskalera Inc" />
     <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Eskalera Inc.</p>  
-    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our design journey with Eskalera.</p>
+    <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our design journey with Eskalera.</p>
     <a href="/about-us" title="Eskalera Inc">
     <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
     style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />  
-    </a> -->
+    </a>
   </div>
 
   <div class="archive__item-body_11_div">
     <img src="/assets/images/racloop.jpg" alt="Racloop technologies" />
     <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Racloop</p>  
-    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our partnership with Racloop.</p>
-    <a href="/about-us" title="Racloop technologies">
+    <p class="archive__item-body_11_p" style="font-size: 18px;width: 200px;">Read more about our partnership with Racloop.</p>
+    <a href="/about-us" title="Eskalera Inc">
     <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
     style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />
-    </a> -->
+    </a>
  
   </div>
      
   <div class="archive__item-body_11_div">
     <img src="/assets/images/voice_analytics.png" alt="Saksham" />
     <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Saksham</p>  
-    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our accessibility journey with Saksham.</p>
-    <a href="/about-us" title="Saksham">
+    <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our accessibility journey with Saksham.</p>
+    <a href="/about-us" title="Eskalera Inc">
     <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
     style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />
-    </a> -->
+    </a>
 
 
   </div>
@@ -469,7 +617,7 @@ figure.third figcaption { width: 100%; }
 
     
       <div class="search-content">
-        <div class="search-content_inner-wrap"><form class="search-content_form" onkeydown="return event.key != 'Enter';">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
     <label class="sr-only" for="search">
       Enter your search term...
     </label>
@@ -679,7 +827,7 @@ figure.third figcaption { width: 100%; }
 				<p class="footer-links" style='margin-top: -40px;font-weight: bold;font-size: 18px;'>
 					All things accessible!
 				</p>
-				<p class="footer-company-name">Â© 2022 IAccessible</p>
+				<p class="footer-company-name">© 2022 IAccessible</p>
 				<p><a href="mailto: info@iaccessible.net"> info@iaccessible.net</a></p>
 			</div>
 
