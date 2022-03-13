@@ -1,7 +1,7 @@
 ---
 title: Trainings
 permalink: /trainings/
-toc: true
+
 ---
 We conduct workshops and hands-on trainings on how to create accessible Web applications. Some of our trainings include:  
 ## [Comprehensive 3 day Web accessibility workshop](/trainings/3-day-accessibility-workshop/)
