@@ -10,7 +10,7 @@ IAccessible is a disability owned social enterprise built on the premise of “n
 Around the world, more than one billion people or about 15% to 20% of the world’s entire population live with some form of disability (Source: World Health Org). The global market of people with disabilities is over 1 billion people with a spending power of more than $6 trillion (Source: The Business Case for Digital Accessibility). In spite of these numbers, today's digital world is highly inaccessible. There is growing demand to bridge this #DisabilityDivide in all small and large scale digital experiences.
 The #DisabilityDivide, however, continues to grow.
 
-## People with no experience with disability build and test  for accessibility 
+## Building and testing products in partnership with people with disabilities expands your market opportunities 
 On one hand, most accessibility design, testing, and support is done by people who may have some training of accessibility standards but have no experience with disabilities. These applications may potentially meet the bare minimum accessibility compliance standards but are often very poor in usability for assistive technology users.
 
 ## There is a talent pool of people with lived experience with disabilities to do this
