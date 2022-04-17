@@ -200,20 +200,20 @@
 
 				
 				<div>
-					<p style='font-weight:bold;font-size: 18px;'>Blogs</p>
+					<h2 style='font-weight:bold;font-size: 18px;'>Blog posts</h2>
 					<br></br>
+					<ul>
+					{% for post in site.posts limit:3 %}
+					<li>
+					<div>
 					<i class="fas fa-blog"></i>
-					<p><a href="/2021/05/08/Did-society-set-us-up-for-failure-on-accessibility-and-inclusion.html"> Did society set us up for failure on...</a></p>
+					
+					<p><a href="{{ post.url }}">{{ post.title|truncatehtml | truncatewords: 6 }}</a></p>
 				</div>
-				<div>
-					<i class="fas fa-blog"></i>
-					<p><a href="/2020/12/20/Influence-without-authority.html"> Influence without authority	</a></p>
+				</li>
+				{% endfor %}
+				</ul>
 				</div>
-				<div>
-					<i class="fas fa-blog"></i>
-					<p><a href="/2020/05/10/wordpress-is-inaccessible.html"> Wordpress is inaccessible</a></p>
-				</div>
-
 
 				<!-- <div>
 					<i class="fa fa-envelope"></i>
