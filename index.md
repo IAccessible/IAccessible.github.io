@@ -6,30 +6,6 @@ layout: splash
 intro: 
   - title : "People with disabilities power accessibility in your products"
     excerpt: 'Leading organizations use IAccessible to connect to people with disabilities for accessibility testing, training, and design reviews.'
-    
-clients:
-  - image_path : "./assets/images/accessibility.png"
-    alt : "Eskalera Inc"
-    url : "about-us"
-    title : "Eskalera Inc"
-#    image_caption : "Eskalera Inc"
-#    excerpt: |
-#      Accessibility assessment for line of business apps
-  - image_path : "./assets/images/racloop.jpg"
-    alt : "Racloop technologies"
-    url  : "about-us"
-#    image_height : 300
-    title : "Racloop technologies"
-#    excerpt: |
-#      Trained Developers on accessibility
-  - image_path : "./assets/images/voice_analytics.png"
-    alt : "Saksham"
-    image_caption : "Saksham"
-    url : "about-us"
-    title : "Saksham"
-#    excerpt: |
-#      Accessible ebook publishing 
-
 goal:
   - excerpt: >
       Our mission is to help companies build accessible and inclusive products through the power of design, reviews, testing, and training by users with disabilities. We do this by collaborating with non-profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
@@ -95,11 +71,6 @@ author_profile: false
 
     
       
-        <!-- <div class="archive__item-excerpt">
-          <p>Leading organizations use IAccessible to connect to people with disabilities for accessibility testing, training, and design reviews.</p>
-
-        </div> -->
-      
 
       
     </div>
@@ -117,36 +88,7 @@ author_profile: false
     
 
     <section class="page__content" itemprop="text">
-      <!-- 
 
-<div class="feature__wrapper">
-
-  
-    <div class="feature__item--center">
-      <div class="archive__item">
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">People with disabilities power accessibility in your products</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>Leading organizations use IAccessible to connect to people with disabilities for accessibility testing, training, and design reviews.</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
-</div>
- -->
-<!-- ## Get started on your accessibility journey -->
 
 <div class="feature__wrapper" style="margin-top: 60px;">
 
@@ -345,25 +287,8 @@ Build an accessible and usable   product  right the first time and save costly b
   </div>
 </figure>
 
-<!-- <style> 
-figure{ display: -webkit-box; display: flex; -webkit-box-pack: justify;justify-content: space-evenly; -webkit-box-align: start;  align-items: flex-start;flex-wrap: wrap;margin: 2em 0; }
-figure img, figure iframe, figure .fluid-width-video-wrapper { margin-bottom: 1em; }
-figure img { width: 100%; border-radius: 4px; -webkit-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
-figure > a { display: block; }
-@media (min-width: 37.5em) { figure.half > a, figure.half > img { width: calc(50% - 0.5em); } }
-figure.half figcaption { width: 100%; }
-@media (min-width: 37.5em) { figure.third > a, figure.third > img { width: calc(20.3333% - 0.5em); } }
-figure.third figcaption { width: 100%; }
-</style>
 
-<figure class="third ">  
-    <img src="/assets/images/accessibility.png" alt="Eskalera Inc" />  
-    <img src="/assets/images/racloop.jpg" alt="Racloop technologies" />  
-    <img src="/assets/images/voice_analytics.png" alt="Saksham" />
-</figure> -->
 
     </section>
   </article>
 </div>
-
-    
