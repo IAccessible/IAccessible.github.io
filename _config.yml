@@ -74,10 +74,16 @@ author:
   twitter: __manish
 #  picture: https://api.adorable.io/avatars/285/johndoe.png
 twitter_username: __manish
-# github_username: manish10
-# logo: /assets/icons/basically-basic-logo-light.svg
+github_username: manish10
+# logo: /assets/images/cropped - iaccessible_logo_without any text.png
 search: true
 #search_full_content: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-LZ8TB70ZEN"
+    anonymize_ip: false # default
 
 # Liquid
 liquid:
