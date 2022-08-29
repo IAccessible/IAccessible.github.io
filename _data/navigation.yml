@@ -21,6 +21,8 @@ main:
 
 # trainings
 training:
+  - title: "Short accessibility trainings"
+    url: /trainings/1-hour
   - title: "Half day accessibility strategy workshop"
     url: /trainings/half-day-accessibility-strategy-workshop
     children:
@@ -61,6 +63,8 @@ left:
   - title: "Trainings"
     url: /trainings
     children:
+      - title: "Short accessibility trainings"
+        url: /trainings/1-hour
       - title: "Half day accessibility strategy workshop"
         url: /trainings/half-day-accessibility-strategy-workshop
       - title: "Half day Developer quick start"
