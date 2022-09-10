@@ -7,7 +7,7 @@ layout: single
 
           To find out more about our products and services, please contact us at:
  
-## iAccessible
+## IAccessible
 mail: <a href="mailto:info@iaccessible.net">info@iaccessible.net</a>
 
 ## Our team

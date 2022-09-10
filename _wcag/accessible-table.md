@@ -92,6 +92,6 @@ page_location:
 </tr>
 </tbody>
 </table>
-</article><footer>Copyright © 2013 iAccessible All rights reserved.
+</article><footer>Copyright © 2013 IAccessible All rights reserved.
 
 </footer>&nbsp;

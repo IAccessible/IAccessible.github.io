@@ -22,6 +22,6 @@ As a social enterprise, IAccessible is disability owned and hires people with di
 
           To find out more about our products and services, please contact us at:
  
-## iAccessible
+## IAccessible
 mail: <a href="mailto:info@iaccessible.net">info@iaccessible.net</a>
 
