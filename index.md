@@ -8,13 +8,35 @@ intro:
     excerpt: 'Leading organizations use IAccessible to connect to people with disabilities for accessibility testing, training, and design reviews.'
 goal:
   - excerpt: >
-      Our mission is to help companies build accessible and inclusive products through the power of design, reviews, testing, and training by users with disabilities. We do this by collaborating with non-profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
+      Our mission is to help companies build accessible and inclusive products through the power of design, reviews, testing, and training by users with disabilities. We do this by collaborating with non- profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
+
+customers:
+  - image_path : "assets/images/Adobe_logo.png"
+    image_width : '124'
+    image_height: '121'
+    alt : "Adobe logo"
+    featuretitle: "Cocreating Universal editor with Adobe"
+    url: "adobe"
+    btn_label : "Adobe case study"
+    excerpt: |
+      Adobe is partnering with Iaccessible to build a truly inclusive Universal editor for the Adobe Experience Manager.  
+      “These reviews were an eye-opening exercise for us.” – Engineering lead for the Universal editor.  
+      “We want to go beyond a checklist and make this really usable and not just compliant” – Accessibility lead, Adobe.
+  - image_path : "assets/images/vpat.jpg"
+    image_width : '124'
+    image_height: '121'
+    featuretitle: "Improve employee experiences at Microsoft"
+    url: "microsoft"
+    btn_label : "Microsoft case study"
+    excerpt: |
+      Microsoft and the compass group are partnering with Iaccessible to bring innovative accessible solutions for the dining and café areas in the global workplaces at Microsoft. 
+
 
 services:
   - image_path : "assets/images/assessment.jpg"
     image_width : '124'
     image_height: '121'
-    title: "Get started with an  accessibility assessment"
+    featuretitle: "Get an accessibility assessment"
     url: "assessment"
     btn_label : "More about assessments"
     excerpt: |
@@ -22,7 +44,7 @@ services:
   - image_path : "assets/images/vpat.jpg"
     image_width : '124'
     image_height: '121'
-    title: "Get a competitive edge with a VPAT report"
+    featuretitle: "Get a VPAT report"
     url: "assessment#showcase-your-accessibility-conformance-with-standardized-reports"
     btn_label : "More about VPATs"
     excerpt: |
@@ -34,7 +56,7 @@ other_services:
     image_height: '121'
     url: "design"
     btn_label : "More about design reviews"
-    title: Design accessible experiences
+    featuretitle: Design accessible experiences
     excerpt: |
       Did you know, you can prevent 60% of accessibility bugs during the design of your applications?  
       Build an accessible and usable   product  right the first time and save costly bug fixes later.
@@ -43,7 +65,7 @@ other_services:
     image_height: '121'
     url: "trainings"
     btn_label : "More about trainings"
-    title: Become an accessibility expert
+    featuretitle: Become an accessibility expert
     excerpt: |
       Sign-up for our workshops and hands-on training on how to create accessible web and mobile applications. We customize them to your specific needs and meet the learners where they are.
 
@@ -291,4 +313,36 @@ Build an accessible and usable   product  right the first time and save costly b
 
     </section>
   </article>
- </div>
+ 
+
+{% include feature_row id="services" rowtitle="Get started on your accessibility journey" %}
+{% include feature_row id="other_services" level=3 %}
+
+
+
+
+<h2 class="archive__item-body_8_h1">Join us to empower people with disabilities</h2>
+<div class="archive__item-body_8_div">
+  <div> 
+    <img  src="./assets/images/story.jpg" alt="" class="archive__item-body_8_div_img">
+  </div>
+  <div class="mrt">
+    <p class="archive__item-body_8_div_p">
+      Our mission is to help companies build accessible
+  and inclusive products through the power of design,
+  reviews, testing, and training by users with disabilities. We do this by collaborating with non- profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and
+  design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
+    </p>
+    <a href="/about-us" style="text-decoration: none;">
+      <p class="archive__item-body_9_P" style="font-size: 18px;">Our Story</p>
+
+    </a>
+  </div>
+
+</div>
+
+
+
+
+{% include feature_row id="customers" rowtitle="Our Customers" %}
+</div>
