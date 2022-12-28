@@ -43,7 +43,7 @@ services:
     btn_label : "More about assessments"
     excerpt: |
       Use a team of expert assistive technology users with lived experience of disabilities to assess your web and mobile applications against WCAG 2.1 & section 508 standards for compliance.
-  - image_path : "assets/images/vpat.jpg"
+  - image_path : "assets/images/VPAT.jpg"
     image_width : '124'
     image_height: '121'
     featuretitle: "Get a VPAT report"
