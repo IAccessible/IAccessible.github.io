@@ -22,7 +22,7 @@ customers:
       Adobe is partnering with Iaccessible to build a truly inclusive Universal editor for the Adobe Experience Manager.  
       “These reviews were an eye-opening exercise for us.” – Engineering lead for the Universal editor.  
       “We want to go beyond a checklist and make this really usable and not just compliant” – Accessibility lead, Adobe.
-  - image_path : "assets/images/microsoft-logo.png"
+  - image_path : "assets/images/microsoft-logo.PNG"
     image_width : '124'
     image_height: '121'
     alt : "microsoft logo"
@@ -326,7 +326,7 @@ Build an accessible and usable   product  right the first time and save costly b
   </div>
 
   <div class="archive__item-body_11_div">
-    <img src="/assets/images/compass-group-logo.png" alt="Compass Group logo" />
+    <img src="/assets/images/compass-group-logo.PNG" alt="Compass Group logo" />
     <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Compass group USA</p>  
     <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our partnership with Racloop.</p>
     <a href="/about-us" title="Racloop technologies">

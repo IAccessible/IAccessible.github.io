@@ -3,8 +3,8 @@ title: Microsoft case study
 permalink : "/case-studies/microsoft"
 layout: single
 ---
-<img src="../../assets/images/microsoft-logo.png" alt="Microsoft logo" style="width:200px; height:200px;"/>    
-<img src="../../assets/images/compass-group-logo.png" alt="Compass group logo" style="width:200px; height:200px;"/>
+<img src="../../assets/images/microsoft-logo.PNG" alt="Microsoft logo" style="width:200px; height:200px;"/>    
+<img src="../../assets/images/compass-group-logo.PNG" alt="Compass group logo" style="width:200px; height:200px;"/>
 ## Compass Group partners with IAccessible to improve cafe experiences at Microsoft
 Compass group USA manages the Cafe and dining facilities for the Global Workplace Services (GWS) team at Microsoft. They frequently introduce innovative technologies in these dining areas in the form of different vending machines for food and beverages.
 In keeping with Microsoft's commitment to create inclusive and accessible office spaces for their employees, the Compass group needs to ensure their innovations are accessible for people with disabilities.
