@@ -16,20 +16,22 @@ customers:
     image_height: '121'
     alt : "Adobe logo"
     featuretitle: "Cocreating Universal editor with Adobe"
-    url: "adobe"
+    url: "/case-studies/adobe"
     btn_label : "Adobe case study"
     excerpt: |
       Adobe is partnering with Iaccessible to build a truly inclusive Universal editor for the Adobe Experience Manager.  
       “These reviews were an eye-opening exercise for us.” – Engineering lead for the Universal editor.  
       “We want to go beyond a checklist and make this really usable and not just compliant” – Accessibility lead, Adobe.
-  - image_path : "assets/images/vpat.jpg"
+  - image_path : "assets/images/microsoft-logo.png"
     image_width : '124'
     image_height: '121'
-    featuretitle: "Improve employee experiences at Microsoft"
-    url: "microsoft"
+    alt : "microsoft logo"
+    featuretitle: "Cafe experiences at Microsoft"
+    url: "case-studies/microsoft"
     btn_label : "Microsoft case study"
     excerpt: |
       Microsoft and the compass group are partnering with Iaccessible to bring innovative accessible solutions for the dining and café areas in the global workplaces at Microsoft. 
+      IAccessible allows the innovations to be tested with people with disabilities before being dployed at Microsoft facilities saving cost and ensuring an inclusive and compliant environment.
 
 
 services:
@@ -102,7 +104,7 @@ author_profile: false
 
 
 <div id="main" role="main">
-  <h2 class="archive__item-body_8_h1">Get started on your accessibility journey</h2>
+  <!-- <h2 class="archive__item-body_8_h1">Get started on your accessibility journey</h2>
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="IAccessible">
     <meta itemprop="description" content="People with disabilities power accessibility in your products">
@@ -272,48 +274,10 @@ Build an accessible and usable   product  right the first time and save costly b
 
 
 
-<h2 class="archive__item-body_10_h1">Our Customers</h2>
-<figure class="third " style="padding: 12px 16px;" >
-
-  <div class="archive__item-body_11_div">
-    <img src="/assets/images/accessibility.png" alt="Eskalera Inc" />
-    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Eskalera Inc.</p>  
-    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our design journey with Eskalera.</p>
-    <a href="/about-us" title="Eskalera Inc">
-    <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
-    style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />  
-    </a> -->
-  </div>
-
-  <div class="archive__item-body_11_div">
-    <img src="/assets/images/racloop.jpg" alt="Racloop technologies" />
-    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Racloop</p>  
-    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our partnership with Racloop.</p>
-    <a href="/about-us" title="Racloop technologies">
-    <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
-    style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />
-    </a> -->
- 
-  </div>
-     
-  <div class="archive__item-body_11_div">
-    <img src="/assets/images/voice_analytics.png" alt="Saksham" />
-    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Saksham</p>  
-    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our accessibility journey with Saksham.</p>
-    <a href="/about-us" title="Saksham">
-    <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
-    style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />
-    </a> -->
-
-
-  </div>
-</figure>
-
-
 
     </section>
   </article>
- 
+--> 
 
 {% include feature_row id="services" rowtitle="Get started on your accessibility journey" %}
 {% include feature_row id="other_services" level=3 %}
@@ -345,4 +309,45 @@ Build an accessible and usable   product  right the first time and save costly b
 
 
 {% include feature_row id="customers" rowtitle="Our Customers" %}
+
+
+
+<!-- <h2 class="archive__item-body_10_h1">Our Customers</h2> -->
+<figure class="third " style="padding: 12px 16px;" >
+
+  <div class="archive__item-body_11_div">
+    <img src="/assets/images/accessibility.png" alt="Eskalera Inc" />
+    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Eskalera Inc.</p>  
+    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our design journey with Eskalera.</p>
+    <a href="/about-us" title="Eskalera Inc">
+    <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
+    style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />  
+    </a> -->
+  </div>
+
+  <div class="archive__item-body_11_div">
+    <img src="/assets/images/compass-group-logo.png" alt="Compass Group logo" />
+    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Compass group USA</p>  
+    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our partnership with Racloop.</p>
+    <a href="/about-us" title="Racloop technologies">
+    <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
+    style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />
+    </a> -->
+ 
+  </div>
+     
+  <div class="archive__item-body_11_div">
+    <img src="/assets/images/voice_analytics.png" alt="Saksham logo" />
+    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Saksham</p>  
+    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our accessibility journey with Saksham.</p>
+    <a href="/about-us" title="Saksham">
+    <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
+    style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />
+    </a> -->
+
+
+  </div>
+</figure>
+
+
 </div>
