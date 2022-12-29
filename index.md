@@ -15,20 +15,20 @@ customers:
     image_width : '124'
     image_height: '121'
     alt : "Adobe logo"
-    featuretitle: "Iaccessible and Adobe Collaborate to Make the Universal Editor More Inclusive"
+    featuretitle: "IAccessible and Adobe Collaborate to Make the Universal Editor More Inclusive"
     url: "/case-studies/adobe"
     btn_label : "Adobe case study"
     excerpt: |
-      Iaccessible is working with Adobe to make the Universal Editor more inclusive for assistive technology users by designing a more accessible and efficient Selection Tool. The goal is to create a product with input from users with disabilities at every stage of development. The project demonstrates the value of designing with people with disabilities in mind.
+      IAccessible is working with Adobe to make the Universal Editor more inclusive for assistive technology users by designing a more accessible and efficient Selection Tool. The goal is to create a product with input from users with disabilities at every stage of development. The project demonstrates the value of designing with people with disabilities in mind.
   - image_path : "assets/images/microsoft-logo.PNG"
     image_width : '124'
     image_height: '121'
     alt : "microsoft logo"
-    featuretitle: "Iaccessible Helps Compass Group Enhance Accessibility in Microsoft Cafes"
+    featuretitle: "IAccessible Helps Compass Group Enhance Accessibility in Microsoft Cafes"
     url: "case-studies/microsoft"
     btn_label : "Microsoft case study"
     excerpt: |
-      Iaccessible is partnering with Compass Group USA to improve the accessibility of their innovations in Microsoft cafes and dining facilities. From vending machines to the Rammon vending car, we are helping Compass Group gather valuable feedback from real users with disabilities to ensure their innovations are ready for deployment and meet the needs of all employees.
+      IAccessible is partnering with Compass Group USA to improve the accessibility of their innovations in Microsoft cafes and dining facilities. From vending machines to the Rammon vending car, we are helping Compass Group gather valuable feedback from real users with disabilities to ensure their innovations are ready for deployment and meet the needs of all employees.
 
 services:
   - image_path : "assets/images/assessment.jpg"
