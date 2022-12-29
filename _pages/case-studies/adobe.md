@@ -1,28 +1,16 @@
 ---
-title: Adobe case study
+title: Adobe Cocreates with Iaccessible to Make the Universal Editor More Inclusive
 permalink : "/case-studies/adobe"
 layout: single
 ---
-![Adobe logo](../../assets/images/adobe_logo.png)
-## Adobe Cocreates with IAccessible
-Adobe is partnering with Iaccessible to cocreate a truly inclusive Universal editor for the Adobe Experience Manager. 
-
-## Wysiwig content editors are hard to make accessible.
-Content authoring tools with rich design surfaces and wysiwyg editors have been hard to make accessible and usable for assistive technology users. There are no well-known standard solutions to make the selection and layout of elements on a design canvas to be accessible.
-Adobe plans to innovatively design the next generation of its content editor in the AEM platform to be accessible and efficient to use by everyone.
-
-## We iteratively design components with inputs from real users.
-Iaccessible reviews each design iteration of the new editor with a group of expert assistive technology users to help find and resolve accessibility and usability problems early in the development lifecycle.
-Iaccessible also provides design guidance for complex accessibility problems. Iaccessible does research with existing industry solutions for similar problems and collects user inputs. The Adobe and Iaccessible teams then prototype the suggested designs  to further iterate to get feedback from users with disabilities.
-
-## How to make the selection and layout of elements on a design canvas accessible?
-An example of such a problem was the “Selection tool”, which allows various components in the wysiwig editor to be selected with a mouse. The way this tool was originally designed, it could only be used with a mouse and was completely unusable for keyboard-only and screen reader users. 
-Iaccessible worked with screen reader users and design experts who reviewed the accessibility of existing solutions in products with a similar design surface, such as Wordpress and PowerPoint. 
-We then proposed an innovative keyboarding paradigm to make the selection tool accessible and efficiently usable by screen reader users. We ensured that this paradigm retains any existing patterns familiar to screen reader users while overcoming the known problems of those solutions.
-
-## The solution will be built on the premise of “Nothing about us without us”.
-When implemented, the innovative content editor will be an example of designing with people with disabilities and not for them. With inputs from users with various disabilities in every stage of the development lifecycle, Adobe would be able to create the “right” product the first time rather than trying to retrofit it later for accessibility compliance.
-
-## The engineering team found this process “eye opening”!
-“These reviews were an eye-opening exercise for us.” – Engineering lead for the Universal editor
-“We want to go beyond a checklist and make this really usable and not just compliant” – Accessibility lead, Adobe.
+![Adobe logo](../../assets/images/Adobe_logo.png)
+## Introduction:
+Adobe is partnering with Iaccessible to create a more inclusive Universal Editor for the Adobe Experience Manager. As a Wysiwig content authoring tool, the Universal Editor presents a unique challenge when it comes to accessibility. These types of tools are difficult to make accessible and usable for assistive technology users, especially when it comes to the design canvas on which users can drag and layout elements for a web page.
+## Partnering with Iaccessible:
+To address this challenge, Adobe turned to Iaccessible for their expertise in creating accessible and usable designs. Early in the development process, Iaccessible reviewed each new iteration of the Universal Editor design, providing feedback from real users with disabilities and identifying any accessibility or usability issues. They also conducted research on existing industry solutions for similar problems and collected input from users to prototype suggested designs.
+## Innovative Solution for the Selection Tool:
+One specific problem that arose was the Selection Tool, which allowed users to select and modify elements on the canvas with a mouse. However, this tool was completely unusable for keyboard-only and screen reader users. Iaccessible worked with screen reader users and design experts to propose an innovative keyboarding paradigm that would make the tool accessible and efficiently usable for screen reader users, while still retaining any existing patterns familiar to these users and overcoming the known problems of existing solutions.
+## Designing with People with Disabilities in Mind:
+The goal of this collaboration is to create a product that is designed with, rather than for, people with disabilities. By incorporating input from users with various disabilities at every stage of the development process, Adobe aims to create a truly inclusive content editor that meets the needs of all users.
+## Conclusion:
+In conclusion, the partnership between Adobe and Iaccessible has allowed for the creation of an innovative and inclusive Universal Editor, addressing the challenges of accessibility and usability for assistive technology users. This project serves as a prime example of the importance of designing with people with disabilities in mind, rather than designing for them.

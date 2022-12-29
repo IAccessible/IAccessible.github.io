@@ -15,24 +15,20 @@ customers:
     image_width : '124'
     image_height: '121'
     alt : "Adobe logo"
-    featuretitle: "Cocreating Universal editor with Adobe"
+    featuretitle: "Iaccessible and Adobe Collaborate to Make the Universal Editor More Inclusive"
     url: "/case-studies/adobe"
     btn_label : "Adobe case study"
     excerpt: |
-      Adobe is partnering with Iaccessible to build a truly inclusive Universal editor for the Adobe Experience Manager.  
-      “These reviews were an eye-opening exercise for us.” – Engineering lead for the Universal editor.  
-      “We want to go beyond a checklist and make this really usable and not just compliant” – Accessibility lead, Adobe.
+      Iaccessible is working with Adobe to make the Universal Editor more inclusive for assistive technology users by designing a more accessible and efficient Selection Tool. The goal is to create a product with input from users with disabilities at every stage of development. The project demonstrates the value of designing with people with disabilities in mind.
   - image_path : "assets/images/microsoft-logo.PNG"
     image_width : '124'
     image_height: '121'
     alt : "microsoft logo"
-    featuretitle: "Cafe experiences at Microsoft"
+    featuretitle: "Iaccessible Helps Compass Group Enhance Accessibility in Microsoft Cafes"
     url: "case-studies/microsoft"
     btn_label : "Microsoft case study"
     excerpt: |
-      Microsoft and the compass group are partnering with Iaccessible to bring innovative accessible solutions for the dining and café areas in the global workplaces at Microsoft. 
-      IAccessible allows the innovations to be tested with people with disabilities before being dployed at Microsoft facilities saving cost and ensuring an inclusive and compliant environment.
-
+      Iaccessible is partnering with Compass Group USA to improve the accessibility of their innovations in Microsoft cafes and dining facilities. From vending machines to the Rammon vending car, we are helping Compass Group gather valuable feedback from real users with disabilities to ensure their innovations are ready for deployment and meet the needs of all employees.
 
 services:
   - image_path : "assets/images/assessment.jpg"
