@@ -304,11 +304,11 @@ Build an accessible and usable   product  right the first time and save costly b
 
 
 
-{% include feature_row id="customers" rowtitle="Our Customers" %}
+<!-- {% include feature_row id="customers" rowtitle="Our Customers" %} -->
 
 
 
-<!-- <h2 class="archive__item-body_10_h1">Our Customers</h2> -->
+ <h2 class="archive__item-body_10_h1">Our Customers</h2>
 <figure class="third " style="padding: 12px 16px;" >
 
   <div class="archive__item-body_11_div">
