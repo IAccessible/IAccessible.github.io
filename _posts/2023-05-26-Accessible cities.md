@@ -31,7 +31,7 @@ The city representatives were still not convinced and asked me for proof of the 
 ## Explaining Accessibility is for Everyone 
 I explained with barely suppressed emotions that the infrastructure they were building was not just for me, it will be there for 10 or 20 years or maybe more, blind people do not need to live in an area and could be visiting friends or family, and putting in inaccessible signals is just building new barriers for people with disabilities. 
 ## The City's Final Decision 
-The city representatives still did not believe they had the funding or will get approval for any even for 1 of the signals, let alone the 6 I had requested.  
+The city representatives still did not believe they will get approval for even 1 of the signals, let alone the 6 I had requested.  
 
 It was surprising for me when two months later, the city sent me a mail saying that the Accessible Traffic Signals (ATS) for all 6 crossings had been approved for funding and installation by the city council.  
 
