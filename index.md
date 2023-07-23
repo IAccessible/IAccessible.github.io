@@ -323,33 +323,19 @@ Build an accessible and usable   product  right the first time and save costly b
   <div class="archive__item-body_11_div">
     <img src="/assets/images/SAP_logo.png" alt="SAP SuccessFactors" />
     <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">SAP SuccessFactors</p>  
-    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our design journey with Eskalera.</p>
-    <a href="/about-us" title="Eskalera Inc">
-    <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
-    style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />  
-    </a> -->
+
   </div>
 
   <div class="archive__item-body_11_div">
     <img src="/assets/images/compass-group-logo.PNG" alt="Compass Group logo" />
     <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Compass group USA</p>  
-    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our partnership with Racloop.</p>
-    <a href="/about-us" title="Racloop technologies">
-    <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
-    style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />
-    </a> -->
  
   </div>
      
   <div class="archive__item-body_11_div">
-    <img src="/assets/images/voice_analytics.png" alt="Saksham logo" />
-    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Saksham</p>  
-    <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our accessibility journey with Saksham.</p>
-    <a href="/about-us" title="Saksham">
-    <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
-    style="width: 32px;height: 16px;display: flex;margin-left: auto;margin-right: auto;margin-top: -10px;" alt="Saksham" />
-    </a> -->
-
+    <img src="/assets/images/Adobe_logo.png" alt="Adobe" />
+    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Adobe</p>  
+    
 
   </div>
 </figure>
