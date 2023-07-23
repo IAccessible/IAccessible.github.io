@@ -11,15 +11,24 @@ goal:
       Our mission is to help companies build accessible and inclusive products through the power of design, reviews, testing, and training by users with disabilities. We do this by collaborating with non- profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
 
 customers:
-  - image_path : "assets/images/Adobe_logo.png"
+  - image_path : "assets/images/SAP_logo.png"
     image_width : '124'
     image_height: '121'
-    alt : "Adobe logo"
-    featuretitle: "IAccessible and Adobe Collaborate to Make the Universal Editor More Inclusive"
-    url: "/case-studies/adobe"
-    btn_label : "Adobe case study"
+    alt : "SAP logo"
+    featuretitle: "IAccessible helps SAP conduct inclusive user research"
+    url: "/case-studies/SAP"
+    btn_label : "SAP case study"
     excerpt: |
-      IAccessible is working with Adobe to make the Universal Editor more inclusive for assistive technology users by designing a more accessible and efficient Selection Tool. The goal is to create a product with input from users with disabilities at every stage of development. The project demonstrates the value of designing with people with disabilities in mind.
+      IAccessible and SAP, a global leader in enterprise software, collaborated to conduct user research with people with disabilities for SAP's cloud-based human resources solution, SAP SuccessFactors. The research helped SAP not just build a more inclusive product but also helped lay down a blueprint for their inlcusive user research program.
+#  - image_path : "assets/images/Adobe_logo.png"
+#    image_width : '124'
+#    image_height: '121'
+#    alt : "Adobe logo"
+#    featuretitle: "IAccessible and Adobe Collaborate #to Make the Universal Editor More Inclusive"
+#    url: "/case-studies/adobe"
+#    btn_label : "Adobe case study"
+#    excerpt: |
+#      IAccessible is working with Adobe to make the #Universal Editor more inclusive for assistive #technology users by designing a more accessible and #efficient Selection Tool. The goal is to create a #product with input from users with disabilities at #every stage of development. The project demonstrates #the value of designing with people with disabilities #in mind.
   - image_path : "assets/images/microsoft-logo.PNG"
     image_width : '124'
     image_height: '121'
@@ -304,16 +313,16 @@ Build an accessible and usable   product  right the first time and save costly b
 
 
 
-<!-- {% include feature_row id="customers" rowtitle="Our Customers" %} -->
+{% include feature_row id="customers" rowtitle="Our Customers" %}
 
 
 
- <h2 class="archive__item-body_10_h1">Our Customers</h2>
+
 <figure class="third " style="padding: 12px 16px;" >
 
   <div class="archive__item-body_11_div">
-    <img src="/assets/images/accessibility.png" alt="Eskalera Inc" />
-    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Eskalera Inc.</p>  
+    <img src="/assets/images/SAP_logo.png" alt="SAP SuccessFactors" />
+    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">SAP SuccessFactors</p>  
     <!-- <p class="archive__item-body_11_p" style="font-size: 18px;">Read more about our design journey with Eskalera.</p>
     <a href="/about-us" title="Eskalera Inc">
     <img src="https://meritocracy.is/blog/wp-content/uploads/2019/01/grey-down-arrow-icon-png-1.png" 
