@@ -15,8 +15,8 @@ mail: <a href="mailto:info@iaccessible.net">info@iaccessible.net</a>
   
 <a href="mailto:manish@iaccessible.net">manish@iaccessible.net</a>
 
-  <strong>Rajan Punchauty</strong>
+  <strong>Puja Punchauty</strong>
   
-<a href="mailto:rajan@iaccessible.net">rajan@iaccessible.net</a>
+<a href="mailto:puja@iaccessible.net">puja@iaccessible.net</a>
 
   

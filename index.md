@@ -4,7 +4,7 @@
 title: IAccessible
 layout: splash
 intro: 
-  - title : "People with disabilities power accessibility in your products"
+  - title : "accessibility powered by people with disabilities"
     excerpt: 'Leading organizations use IAccessible to connect to people with disabilities for accessibility testing, training, and design reviews.'
 goal:
   - excerpt: >
@@ -19,7 +19,7 @@ customers:
     url: "/case-studies/SAP"
     btn_label : "SAP case study"
     excerpt: |
-      IAccessible and SAP, a global leader in enterprise software, collaborated to conduct user research with people with disabilities for SAP's cloud-based human resources solution, SAP SuccessFactors. The research helped SAP not just build a more inclusive product but also helped lay down a blueprint for their inlcusive user research program.
+      IAccessible and SAP, a global leader in enterprise software, collaborated to conduct user research with people with disabilities for SAP's cloud-based human resources solution, SAP SuccessFactors. The research helped SAP not just build a more inclusive product but also helped lay down a blueprint for their inclusive user research program.
 #  - image_path : "assets/images/Adobe_logo.png"
 #    image_width : '124'
 #    image_height: '121'
@@ -87,8 +87,8 @@ author_profile: false
     <div class="archive__item-body">
       <div class="archive__item-body_2">
         <div>
-          <h1 class="archive__item-body_2_h1">People with disabilities power accessibility in your products</h1>
-          <a href="/contact-us" style="text-decoration: none;">
+          <h1 class="archive__item-body_2_h1">accessibility powered by people with disabilities</h1>
+          <a href="/free-assessment-request" style="text-decoration: none;">
 
             <p class="archive__item-body_2_p" style="font-size: 18px;">Free Assessment</p>
           </a>
