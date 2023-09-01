@@ -1,0 +1,7 @@
+<!-- The below iframe should render as full screen on a mobile responsively. Help me create css for this. -->
+@media screen and (max-width: 640px) {
+    iframe {
+        width: 100%;
+        height: 100%;
+    }
+}
