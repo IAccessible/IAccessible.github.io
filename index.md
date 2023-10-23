@@ -11,15 +11,15 @@ goal:
       Our mission is to help companies build accessible and inclusive products through the power of design, reviews, testing, and training by users with disabilities. We do this by collaborating with non- profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
 
 customers:
-  - image_path : "assets/images/SAP_logo.png"
-    image_width : '124'
-    image_height: '121'
-    alt : "SAP logo"
-    featuretitle: "IAccessible helps SAP conduct inclusive user research"
-    url: "/case-studies/SAP"
-    btn_label : "SAP case study"
-    excerpt: |
-      IAccessible and SAP, a global leader in enterprise software, collaborated to conduct user research with people with disabilities for SAP's cloud-based human resources solution, SAP SuccessFactors. The research helped SAP not just build a more inclusive product but also helped lay down a blueprint for their inclusive user research program.
+#  - image_path : "assets/images/SAP_logo.png"
+#    image_width : '124'
+#    image_height: '121'
+#    alt : "SAP logo"
+#    featuretitle: "IAccessible helps SAP conduct inclusive user research"
+#    url: "/case-studies/SAP"
+#    btn_label : "SAP case study"
+#    excerpt: |
+#      IAccessible and SAP, a global leader in enterprise software, collaborated to conduct user research with people with disabilities for SAP's cloud-based human resources solution, SAP SuccessFactors. The research helped SAP not just build a more inclusive product but also helped lay down a blueprint for their inclusive user research program.
 #  - image_path : "assets/images/Adobe_logo.png"
 #    image_width : '124'
 #    image_height: '121'
@@ -321,8 +321,8 @@ Build an accessible and usable   product  right the first time and save costly b
 <figure class="third " style="padding: 12px 16px;" >
 
   <div class="archive__item-body_11_div">
-    <img src="/assets/images/SAP_logo.png" alt="SAP SuccessFactors" />
-    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">SAP SuccessFactors</p>  
+    <img src="/assets/images/racloop.jpg" alt="Racloop technologies" />
+    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Racloop</p>  
 
   </div>
 
