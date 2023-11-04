@@ -8,7 +8,7 @@ intro:
     excerpt: 'Leading organizations use IAccessible to connect to people with disabilities for accessibility testing, training, and design reviews.'
 goal:
   - excerpt: >
-      Our mission is to help companies build accessible and inclusive products through the power of design, reviews, testing, and training by users with disabilities. We do this by collaborating with non- profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
+      Our mission is to help companies build accessible and inclusive products through the power of user research, design, testing, and training by users with disabilities. We do this by collaborating with non- profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
 
 customers:
 #  - image_path : "assets/images/SAP_logo.png"
@@ -51,12 +51,12 @@ services:
   - image_path : "assets/images/VPAT.jpg"
     image_width : '124'
     image_height: '121'
-    featuretitle: "Get a VPAT report"
-    url: "assessment#showcase-your-accessibility-conformance-with-standardized-reports"
-    btn_label : "More about VPATs"
+    featuretitle: "Conduct inclusive user research"
+    url: "user-research"
+    btn_label : "More about user research"
     excerpt: |
-      We create VPAT reports to showcase the accessibility conformance of your application . Our VPAT reports provide results against Section 508, WCAG 2.1, and EN 341 549 European standard. 
-
+      Conduct inclusive user research with our database of over 3000 users with disabilities. Focus on your research while we take care of everything from recruiting to reporting  and more. 
+      
 other_services:
   - image_path : "assets/images/experience.jpg"
     image_width : '124'
