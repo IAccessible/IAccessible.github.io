@@ -4,8 +4,8 @@ main:
     url : "assessment"
   - title: "Training"
     url: trainings
-  - title : "Design"
-    url : design
+  - title : "User research"
+    url : user-research
   - title : "Products"
     url : "products"
   - title : "About us"
