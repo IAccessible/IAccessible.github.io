@@ -200,7 +200,7 @@
 			<h2><a href="/blog">Blog posts</a></h2>
 			{% for post in site.posts limit:3 %}
 			<div>
-				<i class="fas fa-blog"></i>
+				<i class="fas fa-blog" aria-hidden="true"></i>
 				<p><a href="{{ post.url }}">{{ post.title|truncatehtml | truncatewords: 5 }}</a></p>
 			</div>
 			{% endfor %}
