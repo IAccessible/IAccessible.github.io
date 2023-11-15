@@ -1,5 +1,5 @@
 ---
-title: Inclusive User research
+title: Inclusive User Research
 permalink : /user-research
 ---
 We provide comprehensive inclusive user research services that will allow your teams to quickly receive crucial feedback from users with various kinds of disabilities.
@@ -20,5 +20,6 @@ To let your teams focus on getting the required research results quickly and wit
 * Analysis: We can analyse the results of the study and provide you with a report that includes the findings and recommendations.
 * Readout: We can present the findings and recommendations to your teams and help them understand the results and the implications for your product.
 * Follow-up: We can help you with any follow-up questions you may have after the readout.
+
     
 Please [contact us](/contact-us) to help us understand your specific needs.

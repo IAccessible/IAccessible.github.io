@@ -108,7 +108,7 @@ author_profile: false
 
 
 
-<div id="main" role="main">
+<div id="main" >
   <!-- <h2 class="archive__item-body_8_h1">Get started on your accessibility journey</h2>
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="IAccessible">
