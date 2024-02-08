@@ -6,6 +6,22 @@ layout: splash
 intro: 
   - title : "accessibility powered by people with disabilities"
     excerpt: 'Leading organizations use IAccessible to connect to people with disabilities for accessibility testing, training, and design reviews.'
+
+events:
+  - featuretitle: "IAccessible's Include Series"
+    url: "event-include/2024/01/30/include-series-event-1-video.html"
+    btn_label : "Watch past Include events"
+    #image_path : "assets/images/IAccessible-Include-Series.jpg"
+    #image_height: '121'
+    #image_width : '124'
+    #alt : "From left to right Host Manish Agrawal, Saqib Shaikh, Rob Sinclair, Jennifer Smith sitting behind the table with a banner IAccessible in front"
+    excerpt: |
+      We are excited to announce the launch of IAccessible's "Include" series. This series is designed to bring together thought leaders, industry experts, and accessibility enthusiasts to discuss the latest trends, challenges, and opportunities in the accessibility space.
+#
+      #[Watch the video of our first event](/event-include/2024/01/30/include-series-event-1-video.html)
+
+
+
 goal:
   - excerpt: >
       Our mission is to help companies build accessible and inclusive products through the power of user research, design, testing, and training by users with disabilities. We do this by collaborating with non- profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
@@ -286,7 +302,7 @@ Build an accessible and usable   product  right the first time and save costly b
 
 {% include feature_row id="services" rowtitle="Get started on your accessibility journey" %}
 {% include feature_row id="other_services" level=3 %}
-
+{% include feature_row id="events" %}
 
 
 

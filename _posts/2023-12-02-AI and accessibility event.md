@@ -1,5 +1,5 @@
 ---
-title: "AI and Accessibility: A chat with industry experts"
+title: "announcing the Include series first event"
 date: 2023-12-02
 author: Manish
 layout: single
