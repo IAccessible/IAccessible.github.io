@@ -19,5 +19,5 @@ Date: 29th February 2024
 Time: 5:30 PM to 7:30 PM PT
 Location: Microsoft Reactor, Building 20, Redmond, WA
 
-If you missed the last event, you can find a video at [Include: AI and Accessibility](/event-include/2024-01-30-include-series-event-1-video/)
+If you missed the last event, you can find a video at [Include: AI and Accessibility](/event-include/2024/01/30/include-series-event-1-video.html)
 
