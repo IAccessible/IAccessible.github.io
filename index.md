@@ -17,6 +17,8 @@ events:
     #alt : "From left to right Host Manish Agrawal, Saqib Shaikh, Rob Sinclair, Jennifer Smith sitting behind the table with a banner IAccessible in front"
     excerpt: |
       We are excited to announce the launch of IAccessible's "Include" series. This series is designed to bring together thought leaders, industry experts, and accessibility enthusiasts to discuss the latest trends, challenges, and opportunities in the accessibility space.
+      
+      [Culture Change - Accessibility Beyond Compliance](https://www.linkedin.com/events/culturechange-accessibilitybeyo7161194702275252224/) - 29th February 2024
 #
       #[Watch the video of our first event](/event-include/2024/01/30/include-series-event-1-video.html)
 
