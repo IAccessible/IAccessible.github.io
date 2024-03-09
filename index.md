@@ -9,7 +9,7 @@ intro:
 
 events:
   - featuretitle: "IAccessible's Include Series"
-    url: "event-include/2024/01/30/include-series-event-1-video.html"
+    url: "/events"
     btn_label : "Watch past Include events"
     #image_path : "assets/images/IAccessible-Include-Series.jpg"
     #image_height: '121'
@@ -18,7 +18,7 @@ events:
     excerpt: |
       We are excited to announce the launch of IAccessible's "Include" series. This series is designed to bring together thought leaders, industry experts, and accessibility enthusiasts to discuss the latest trends, challenges, and opportunities in the accessibility space.
       
-      [Culture Change - Accessibility Beyond Compliance](https://www.linkedin.com/events/culturechange-accessibilitybeyo7161194702275252224/) - 29th February 2024
+      [Culture Change - Accessibility Beyond Compliance](event-include/2024/03/08/include-series-event-2-video.html) - 29th February 2024
 #
       #[Watch the video of our first event](/event-include/2024/01/30/include-series-event-1-video.html)
 
