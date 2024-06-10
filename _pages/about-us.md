@@ -4,7 +4,7 @@ permalink : "/about-us"
 layout: single
 ---
 ## Disability owned – Nothing for  us without us!
-IAccessible is a disability owned social enterprise built on the premise of “nothing for us without us!” with a target to channel the skills and experience of people with disabilities to bridge the #DisabilityDivide”. The founder, Manish Agrawal, has been blind for over 20 years and has been driving accessibility innovations at Microsoft and other companies for years.
+IAccessible is a disability owned social enterprise built on the premise of “nothing for us without us!” with a target to channel the skills and experience of people with disabilities to bridge the #DisabilityDivide”. Everyone at IAccessible, including the founders, Aman Singal and Manish Agrawal, has lived experience of disabilities. We have been driving accessibility innovations in large enterprises like Microsoft and other companies for years.
  
 ## The #Disability Divide is growing
 Around the world, more than one billion people or about 15% to 20% of the world’s entire population live with some form of disability (Source: World Health Org). The global market of people with disabilities is over 1 billion people with a spending power of more than $6 trillion (Source: The Business Case for Digital Accessibility). In spite of these numbers, today's digital world is highly inaccessible. There is growing demand to bridge this #DisabilityDivide in all small and large scale digital experiences.

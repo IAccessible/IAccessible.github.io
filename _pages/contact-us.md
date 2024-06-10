@@ -1,5 +1,4 @@
 ---
-id: 4
 title: Contact Us
 permalink : "/contact-us"
 layout: single
@@ -11,11 +10,11 @@ layout: single
 mail: <a href="mailto:info@iaccessible.net">info@iaccessible.net</a>
 
 ## Our team
-  <strong>Manish Agrawal</strong>
-  
-<a href="mailto:manish@iaccessible.net">manish@iaccessible.net</a>
+  President: <strong>Aman Singal</strong>
 
-  <strong>Puja Punchauty</strong>
+<a href="mailto:aman@iaccessible.net">aman@iaccessible.net</a>
+
+  Director: <strong>Puja Punchauty</strong>
   
 <a href="mailto:puja@iaccessible.net">puja@iaccessible.net</a>
 
