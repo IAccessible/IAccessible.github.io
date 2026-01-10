@@ -217,10 +217,9 @@ textarea[readonly] {
 input:focus,
 textarea:focus {
   border-color: $primary-color;
-  outline: 0;
-  outline: thin dotted \9;
-  box-shadow: inset 0 1px 3px rgba($text-color, 0.06),
-    0 0 5px rgba($primary-color, 0.7);
+  outline: 4px solid #ffcc00;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 2px #000000;
 }
 
 input[type="file"]:focus,
