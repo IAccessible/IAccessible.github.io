@@ -491,6 +491,10 @@
     text-align: center;
   
   }
+  a:focus .archive__item-body_2_p {
+    outline: 3px solid #ffdd00;
+    outline-offset: 2px;
+  }
   .archive__item-body_2_img {
     width: 520px;
   }
@@ -604,6 +608,10 @@
   color: #f2f3f3;
   margin-top: 24px;
   font-size: 18px;
+  }
+  a:focus .archive__item-body_9_P {
+    outline: 3px solid #ffdd00;
+    outline-offset: 2px;
   }
   .archive__item-body_10_h1 {
     margin: 50px 0px 32px 0px;

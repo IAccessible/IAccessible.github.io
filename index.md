@@ -106,7 +106,7 @@ author_profile: false
       <div class="archive__item-body_2">
         <div>
           <h1 class="archive__item-body_2_h1">accessibility powered by people with disabilities</h1>
-          <a href="/free-assessment-request" style="text-decoration: none;">
+          <a href="/free-assessment-request" style="display: inline-block; text-decoration: underline; color: #ffffff;">
 
             <p class="archive__item-body_2_p" style="font-size: 18px;">Free Assessment</p>
           </a>
