@@ -485,10 +485,11 @@
     border-radius: 5px;
     background-color: #33383b;
     color: #f2f3f3;
-    margin-top: 34px;
+    margin-top: 32px;
     font-size: 18px;
     padding:6px 14px 8px 14px;
     text-align: center;
+    border: 2px solid #555;
   
   }
   a:focus .archive__item-body_2_p {
@@ -606,8 +607,9 @@
   text-align: center;
   background-color: #33383b;
   color: #f2f3f3;
-  margin-top: 24px;
+  margin-top: 32px;
   font-size: 18px;
+  border: 2px solid #555;
   }
   a:focus .archive__item-body_9_P {
     outline: 3px solid #ffdd00;

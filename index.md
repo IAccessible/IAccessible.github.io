@@ -72,7 +72,7 @@ services:
     url: "user-research"
     btn_label : "More about user research"
     excerpt: |
-      Conduct inclusive user research with our database of over 3000 users with disabilities. Focus on your research while we take care of everything from recruiting to reporting  and more. 
+      Conduct inclusive user research with our database of over 3000 users with disabilities. Focus on your research while we take care of everything from recruiting to reporting and more. 
       
 other_services:
   - image_path : "assets/images/experience.jpg"
@@ -82,8 +82,8 @@ other_services:
     btn_label : "More about design reviews"
     featuretitle: Design accessible experiences
     excerpt: |
-      Did you know, you can prevent 60% of accessibility bugs during the design of your applications?  
-      Build an accessible and usable   product  right the first time and save costly bug fixes later.
+      Did you know, you can prevent 60% of accessibility bugs during the design of your applications?
+      Build an accessible and usable product right the first time and save costly bug fixes later.
   - image_path : "assets/images/expert.jpg"
     image_width : '124'
     image_height: '121'
@@ -105,7 +105,7 @@ author_profile: false
       <div class="archive__item-body_2">
         <div>
           <h1 class="archive__item-body_2_h1">accessibility powered by people with disabilities</h1>
-          <a href="/free-assessment-request" style="display: inline-block; text-decoration: underline; color: #ffffff;">
+          <a href="/free-assessment-request" style="display: inline-block; text-decoration: none; color: #ffffff;">
 
             <p class="archive__item-body_2_p" style="font-size: 18px;">Free Assessment</p>
           </a>
@@ -316,7 +316,7 @@ Build an accessible and usable   product  right the first time and save costly b
     <p class="archive__item-body_8_div_p">
       Our mission is to help companies build accessible
   and inclusive products through the power of design,
-  reviews, testing, and training by users with disabilities. We do this by collaborating with non- profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and
+  reviews, testing, and training by users with disabilities. We do this by collaborating with non-profit organizations across the world to train and hire people with various kinds of disabilities. Besides being trained experts in accessibility testing and
   design, they have a lifetime of experience as users of accessibility products and solutions for their day-to-day living.
     </p>
     <a href="/about-us" style="text-decoration: none;">
@@ -345,7 +345,7 @@ Build an accessible and usable   product  right the first time and save costly b
 
   <div class="archive__item-body_11_div">
     <img src="/assets/images/compass-group-logo.PNG" alt="Compass Group logo" />
-    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Compass group USA</p>  
+    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Compass Group USA</p>  
  
   </div>
      
