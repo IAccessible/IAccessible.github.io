@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 locale: en-US
 title: "IAccessible"
-masthead_title: "IAccessible"
 #subtitle                 : " All things accessible!"
 logo : "/assets/images/cropped - iaccessible_logo_without any text.png"
 email: manish@iaccessible.net
