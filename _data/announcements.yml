@@ -1,0 +1,9 @@
+# Announcements data file
+# Set is_current: true to display an announcement on the home page
+# Set is_current: false to hide it (announcements section won't render if no current items exist)
+
+# Example announcement (set is_current to true to enable):
+# - title: "New accessibility audit service launched"
+#   date: 2026-01-15
+#   url: "/news/audit-service-launch/"
+#   is_current: false

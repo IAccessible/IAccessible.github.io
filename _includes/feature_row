@@ -26,7 +26,7 @@
 {% else %}
 <h2 class="archive__item-body_8_h1">
   {% endif %}
-  {{ f.featuretitle }}
+  {% if f.url %}<a href="{{ f.url | relative_url }}">{% endif %}{{ f.featuretitle }}{% if f.url %}</a>{% endif %}
   {% if include.rowtitle or include.level > 2 %}
 </h3>
 {% else %}
@@ -40,8 +40,8 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% if f.btn_label %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label }}</a></p>
           {% endif %}
         </div>
       </div>
