@@ -33,7 +33,7 @@
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Search" }}</span>
           <i class="fas fa-search"></i>
         </button>
-        <div class="search-content" id="search-content">
+        <div class="search-content" id="search-content" style="position: absolute; left: 0; right: 0; top: 100%; flex-basis: 100%; width: 100%;">
           {% include_cached search/search_form.html %}
         </div>
         {% endif %}
