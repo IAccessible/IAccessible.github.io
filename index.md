@@ -1,20 +1,18 @@
 ---
 layout: splash
 author_profile: false
+title: "Accessibility outcomes driven by lived disability experience"
+excerpt: "Experts with lived disability experience lead accessibility audits, research, and remediation—validating AI-enabled accessibility workflows."
 
-# Hero section
+# Hero section with overlay
 header:
   overlay_image: /assets/images/hero-technical-accessibility.jpg
   overlay_filter: 0.5
-excerpt: "Experts with lived disability experience lead accessibility audits, research, and remediation—validating AI-enabled accessibility workflows."
-intro:
-  - title: "Accessibility outcomes driven by lived disability experience"
-    excerpt: "Experts with lived disability experience lead accessibility audits, research, and remediation—validating AI-enabled accessibility workflows."
-    actions:
-      - label: "View our services"
-        url: "/products"
-      - label: "See case studies"
-        url: "/case-studies/"
+  actions:
+    - label: "View our services"
+      url: "/products"
+    - label: "See case studies"
+      url: "/case-studies/"
 
 # Services section - 2x2 grid
 services_grid:
@@ -79,6 +77,22 @@ customers:
     <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Racloop</p>
   </div>
   <div class="archive__item-body_11_div">
+    <img src="/assets/images/compass-group-logo.PNG" alt="Compass Group logo" />
+    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Compass Group USA</p>
+  </div>
+  <div class="archive__item-body_11_div">
+    <img src="/assets/images/Adobe_logo.png" alt="Adobe" />
+    <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Adobe</p>
+  </div>
+</figure>
+
+<!-- Our Story Section -->
+<h2 class="archive__item-body_8_h1">Join us to empower people with disabilities</h2>
+<div class="archive__item-body_8_div">
+  <div> 
+    <img src="./assets/images/story.jpg" alt="" class="archive__item-body_8_div_img">
+  </div>
+  <div class="mrt">
     <Our Story Section -->
 <h2 class="archive__item-body_8_h1">Join us to empower people with disabilities</h2>
 <div class="archive__item-body_8_div">
@@ -93,7 +107,7 @@ customers:
       <p class="archive__item-body_9_P" style="font-size: 18px;">Our Story</p>
     </a>
   </div>
-</div>
+</div
 
 <!-- img src="/assets/images/compass-group-logo.PNG" alt="Compass Group logo" />
     <p class="archive__item-body_11_p" style="font-size: 18px;font-weight: 600;">Compass Group USA</p>
