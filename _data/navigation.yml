@@ -23,16 +23,15 @@ main:
 training:
   - title: "Short accessibility trainings"
     url: /trainings/1-hour
-  - title: "Half day accessibility strategy workshop"
-    url: /trainings/half-day-accessibility-strategy-workshop
+  - title: "Half day workshops"
+    url: /trainings/half-day
     children:
-      - title: "Strategy Workshop Agenda"
-        url: "/trainings/half-day-accessibility-strategy-workshop/Agenda"
-  - title: "Half day Developer quick start"
-    url: /trainings/half-day-accessibility-quick-start-for-developers
-    children:
-      - title: "quick start agenda"
-        url: "/trainings/half-day-accessibility-quick-start-for-developers/agenda"
+      - title: "Half day accessibility for designers"
+        url: /trainings/half-day-accessibility-for-designers
+      - title: "Half day accessibility strategy workshop"
+        url: /trainings/half-day-accessibility-strategy-workshop
+      - title: "Half day Developer quick start"
+        url: /trainings/half-day-accessibility-quick-start-for-developers
   - title: "2-day Accessibility Testing primer"
     url: /trainings/2-day-accessibility-testing-primer/
     children:
@@ -65,10 +64,8 @@ left:
     children:
       - title: "Short accessibility trainings"
         url: /trainings/1-hour
-      - title: "Half day accessibility strategy workshop"
-        url: /trainings/half-day-accessibility-strategy-workshop
-      - title: "Half day Developer quick start"
-        url: /trainings/half-day-accessibility-quick-start-for-developers
+      - title: "Half day workshops"
+        url: /trainings/half-day
       - title: "2-day Accessibility Testing primer"
         url: /trainings/2-day-accessibility-testing-primer/
       - title: "3-day Accessibility workshop"

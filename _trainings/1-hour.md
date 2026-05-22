@@ -1,11 +1,26 @@
 ---
-title: short accessibility trainings
+title: Short trainings 60-90 minutes
 date: 2014-09-28T22:43:44+00:00
 author: Manish
 layout: single
 ---
-These are some of the short (1 hour) learning sessions provided by IAccessible for product makers, business leaders, user researchers, designers, and developers. 
+These are some of the short (60-90 minute) learning sessions provided by IAccessible for product makers, business leaders, user researchers, designers, and developers. 
 Each session is best suited for an audience of 20-25 people to encourage learner participation.  
+
+## Accessibility basics for designers (90 minutes)
+Level: 100
+Audience: designers
+Format: Presentation, demo, and hands on exercises
+This 90 minute session combines our "Designing products for accessibility: Tenets and traps" and "Meet a real screen reader user as they navigate the Web" trainings into a single accessibility foundations course tailored for designers.
+### Learning objectives
+This course helps designers build a foundational understanding of accessibility by pairing the POUR principles with the common pitfalls that cause inaccessible designs, grounded in a live demo of a real screen reader user.
+-	Understand what is accessibility.
+-	Learn about types of disabilities and assistive tools used by people with different disabilities.
+-	Watch a demo of a real screen reader user navigating the Web.
+-	Learn about the POUR principles of accessibility.
+-	See examples of common accessibility problems – Traps!
+-	Discuss tenets of good design.
+-	Practice tenets and traps with hands on exercise/quiz.
 
 ## Demystifying Accessibility
  Level: 100
