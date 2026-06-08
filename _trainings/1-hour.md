@@ -7,6 +7,21 @@ layout: single
 These are some of the short (60-90 minute) learning sessions provided by IAccessible for product makers, business leaders, user researchers, designers, and developers. 
 Each session is best suited for an audience of 20-25 people to encourage learner participation.  
 
+## About these short sessions
+- **Audience:** product managers, business and engineering leaders, user researchers, designers, developers, testers, content authors, and anyone in your organization who needs a focused introduction to a specific accessibility topic.
+- **Format:** 60 to 90 minutes of live, instructor-led training delivered remotely over Zoom or Microsoft Teams. Most sessions blend presentation, demo, and short hands-on activities or Q&A.
+- **Group size:** best suited for 20–25 participants per session to encourage discussion and questions; larger audiences are possible for purely presentation-style sessions on request.
+- **Schedule options:** book a single session, or combine multiple sessions into a custom learning track for your team.
+- **Language:** English.
+- **Customization:** examples, demos, and discussion topics tailored to your industry, product, and audience on request.
+- **Materials provided:** slides and, where applicable, hands-on exercise files and reference handouts that participants can keep.
+- **Accessibility of the training itself:** live captions, accessible slides and exercise files, and reasonable accommodations available on request.
+- **Session recording:** available on request for participants who cannot attend live.
+- **Prerequisites:** none unless noted on a specific session below.
+
+## Bring these sessions to your team
+[Contact us](/contact-us) to schedule one or more of the sessions below, build a custom learning track from multiple sessions, or request a topic tailored to your team that is not listed here.
+
 ## Accessibility basics for designers (90 minutes)
 Level: 100
 Audience: designers
