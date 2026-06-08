@@ -32,6 +32,8 @@ training:
         url: /trainings/half-day-accessibility-strategy-workshop
       - title: "Half day Developer quick start"
         url: /trainings/half-day-accessibility-quick-start-for-developers
+      - title: "Half day accessibility for content creators"
+        url: /trainings/half-day-accessibility-for-content-creators
   - title: "2-day Accessibility Testing primer"
     url: /trainings/2-day-accessibility-testing-primer/
     children:

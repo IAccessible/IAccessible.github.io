@@ -12,3 +12,6 @@ Tailored for product and platform leaders making strategy and usability decision
 
 ## [Half day accessibility quick start for developers](/trainings/half-day-accessibility-quick-start-for-developers)
 A 4 hour hands on session that gives Web designers and developers a quick start on incorporating accessibility into everyday development work, with exercises covering the most common and impactful WCAG techniques.
+
+## [Half day accessibility for content creators](/trainings/half-day-accessibility-for-content-creators)
+Designed for information workers — analysts, program managers, communications staff, and subject matter experts — who routinely produce reports, briefings, and presentations published to large public audiences. Covers the legal landscape (delivered in a U.S.-focused or global flavor — ADA Title II, Section 508, Section 504, state laws, EAA, EN 301 549, EU and UK accessibility regulations, WCAG, ACR/VPAT) and hands on practice creating accessible Word documents, PowerPoint decks, Excel files, and tagged PDFs.
