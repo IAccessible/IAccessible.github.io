@@ -4,6 +4,27 @@ layout: single
 ---
 This half day (approximately 4 hour) workshop is designed for information workers — analysts, program managers, communications staff, policy writers, and subject matter experts — who routinely produce reports, briefings, dashboards, and presentations that are published to large public audiences. It is not a developer training. The focus is on the everyday authoring tools these teams already use (Microsoft Word, PowerPoint, Excel, and PDF) and on the legal and policy environment that governs the content they publish. The standards-and-laws section is delivered in either a U.S.-focused or a global flavor, depending on where the participants' audiences are.
 
+## At a glance
+- **Audience:** analysts, program managers, communications and public affairs staff, policy writers, subject matter experts, advocates, and anyone in your organization who authors reports, briefings, fact sheets, slide decks, or dashboards published to a public audience.
+- **Format:** approximately 4 hours of live, instructor-led training delivered remotely over Zoom or Microsoft Teams.
+- **Group size:** capped at 15 participants per session to keep the hands-on portions interactive.
+- **Schedule options:** a single half-day block, or two 2-hour sessions on consecutive days.
+- **Language:** English.
+- **Customization:** choose a U.S.-focused or global flavor for the standards-and-laws section, and have sample documents drawn from your organization's own templates and publications on request.
+- **Materials provided:** slides, sample Word, PowerPoint, and Excel files for the exercises, a tagged-PDF reference, and a pre-publication accessibility checklist participants can apply to their own work the next day.
+- **Accessibility of the training itself:** live captions, accessible slides and exercise files, and reasonable accommodations available on request.
+- **Session recording:** available on request for participants who cannot attend live.
+- **Technical requirements:** Microsoft Word, PowerPoint, and Excel (Microsoft 365 or Office 2019 or newer) installed locally; Adobe Acrobat Reader is sufficient for the PDF portion (Acrobat Pro is helpful but not required).
+
+## Learning objectives
+By the end of this workshop, participants will be able to:
+- Explain who is impacted by inaccessible documents and what assistive technologies their readers use.
+- Navigate the legal and policy landscape — in either a U.S.-focused or global flavor — that applies to public-facing content their team publishes.
+- Read an Accessibility Conformance Report when evaluating templates, document generators, or publishing tools.
+- Produce accessible Microsoft Word documents, PowerPoint decks, Excel files, and tagged PDFs using the authoring features already built into Office.
+- Write effective alt text for images, charts, and infographics, and know when to use a long description or accompanying data table.
+- Apply a reusable pre-publication accessibility checklist before any document goes out the door.
+
 ## What is Accessibility?
 Explain the common categories of disability — visual, hearing, motor, cognitive, speech, and situational — and how each affects the way people consume reports, slide decks, spreadsheets, and PDF documents. Walk through the adaptive technologies these audiences rely on, including screen readers, screen magnifiers, switch access, voice control, captions, reading-order tools, and the built-in accessibility features on desktop and mobile platforms. Show concrete examples of how a well-intentioned but inaccessible report or slide deck breaks for a screen reader user, a person with low vision, or a person with a cognitive disability — and how small authoring habits remove those barriers. Discuss why accessibility matters for organizations that publish to the public: reaching the full audience the content is meant to serve, equity and inclusion of constituents with disabilities, brand and trust, and legal and policy obligations.
 
@@ -56,3 +77,6 @@ The hands-on heart of the workshop. Working in the tools participants already us
 - **Pre-publication checklist** — a short, repeatable checklist participants leave with, plus a walkthrough of the built-in Accessibility Checker in each Office app and what it does and does not catch.
 
 Participants leave with practical authoring habits, a reusable pre-publication checklist, and a clear understanding of the legal landscape that makes accessible documents not just a good idea but a requirement for content published to the public.
+
+## Bring this workshop to your team
+[Contact us](/contact-us) to schedule a session for your team, choose between the U.S.-focused or global flavor of the standards section, request that the exercises use your organization's own report and presentation templates, or ask about combining this workshop with our other trainings.

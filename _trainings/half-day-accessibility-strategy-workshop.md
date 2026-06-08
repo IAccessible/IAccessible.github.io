@@ -4,6 +4,27 @@ layout: single
 ---
 This half day strategy workshop helps de-mystify accessibility for product, platform, and organizational leaders who make strategy, design, procurement, and program decisions. Participants leave with a working understanding of who is impacted, the standards and laws that apply, and a practical roadmap for building or maturing an accessibility program inside their organization.
 
+## At a glance
+- **Audience:** executives, product and platform leaders, program managers, legal and compliance, procurement, HR, and accessibility champions standing up or maturing an accessibility program.
+- **Format:** approximately 4 hours of live, instructor-led training delivered remotely over Zoom or Microsoft Teams.
+- **Group size:** capped at 15 participants per session to encourage discussion and tailored Q&A.
+- **Schedule options:** a single half-day block, or two 2-hour sessions on consecutive days.
+- **Language:** English.
+- **Customization:** standards-and-laws coverage tailored to the jurisdictions you operate in (U.S., EU, UK, Canada, APAC, or multi-region), and examples drawn from your industry on request.
+- **Materials provided:** slides, a maturity self-assessment worksheet, a program-foundations checklist, and a 30/60/90-day roadmap template participants can adapt for their own organization.
+- **Accessibility of the training itself:** live captions, accessible slides and worksheets, and reasonable accommodations available on request.
+- **Session recording:** available on request for participants who cannot attend live.
+- **Prerequisites:** none. No technical background required.
+
+## Learning objectives
+By the end of this workshop, participants will be able to:
+- Articulate the business, legal, and ethical case for accessibility to their executive team and board.
+- Distinguish between the major standards (WCAG, EN 301 549, PDF/UA, platform mobile guidance) and the laws and regulations that reference them (ADA Title II and III, Section 508, EAA, AODA, EU Web Accessibility Directive, and others).
+- Read and evaluate an Accessibility Conformance Report (ACR / VPAT) for procurement decisions.
+- Honestly assess their organization's current accessibility maturity against an industry framework.
+- Outline the program elements — sponsorship, policy, roles, lifecycle integration, procurement, training, governance, and measurement — required to sustain accessibility over time.
+- Walk away with a 30/60/90-day roadmap adapted to their own organization.
+
 ## What is Accessibility?
 Explain the common categories of disability — visual, hearing, motor, cognitive, speech, and situational — and how each affects the way people interact with software, hardware, and the physical world. Walk through the adaptive technologies people rely on, including screen readers, screen magnifiers, switch access, voice control, captions, alternative input devices, and built-in OS accessibility features on desktop and mobile. Show concrete examples of how poorly built digital products break these technologies, and how thoughtful design removes those barriers. Discuss the business case: market reach, brand and reputation, employee inclusion, legal risk, and the well-documented quality and innovation benefits that accessible products deliver.
 
@@ -28,3 +49,6 @@ For leaders who are either standing up a new accessibility program or looking to
 - **People and culture** — training pathways for designers, developers, content authors, PMs, and executives; hiring and partnering with people with disabilities; employee resource groups; and embedding lived experience into research.
 - **Measurement and governance** — defining KPIs and OKRs for accessibility, dashboards and reporting cadence, issue triage and SLAs, audit and conformance strategy, handling user feedback and complaints, and preparing for regulatory inquiries.
 - **Roadmap and next steps** — a practical 30/60/90-day plan participants can adapt to their own organization, plus an honest discussion of common pitfalls and how to avoid them.
+
+## Bring this workshop to your team
+[Contact us](/contact-us) to schedule a session for your leadership team, request customization for the jurisdictions and industries you operate in, or ask about combining this workshop with deeper hands-on training for your designers, developers, content creators, or QA team.
