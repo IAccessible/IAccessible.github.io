@@ -4,6 +4,10 @@
   {% endfor %}
 {% endif %}
 
+{% if page.robots %}
+  <meta name="robots" content="{{ page.robots }}">
+{% endif %}
+
 {% if page.analytics != false %}
   <!-- Start of HubSpot Embed Code -->
   <script type="text/javascript" id="hs-script-loader" async defer src="//js-na2.hs-scripts.com/243905645.js"></script>
