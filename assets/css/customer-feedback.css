@@ -1,3 +1,7 @@
+.page__title {
+  display: none;
+}
+
 .customer-feedback-form {
   border: 0;
   display: block;
