@@ -10,7 +10,7 @@ page_css:
   - /assets/css/customer-feedback.css
 ---
 
-<p><a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aSJBbYh4zU2jcXbOc1vKO48PRhUVzh1EuZMwwTm-BQhUOERFM0xZUzI0Tkc3V0g3OEFRWkNZRzVBTiQlQCN0PWcu" target="_blank" rel="noopener noreferrer">Open the customer feedback survey in a new window</a> or read our <a href="/privacy">Privacy Policy</a>.</p>
+<p><a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aSJBbYh4zU2jcXbOc1vKO48PRhUVzh1EuZMwwTm-BQhUOERFM0xZUzI0Tkc3V0g3OEFRWkNZRzVBTiQlQCN0PWcu" target="_blank" rel="noopener noreferrer">Open the customer feedback survey in a new window</a> or read the <a href="/customer-feedback/privacy">survey privacy note</a>.</p>
 
 <iframe
   class="customer-feedback-form"
