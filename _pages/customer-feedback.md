@@ -16,12 +16,12 @@ The survey should take approximately two to three minutes. It does not require y
 
 Please do not include confidential, sensitive, classified, procurement-restricted, or personally identifiable information. Your responses will be reported only in aggregate unless you explicitly authorize IAccessible to use a testimonial. Organization and contact information are optional.
 
-<p><a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aSJBbYh4zU2jcXbOc1vKO48PRhUVzh1EuZMwwTm-BQhURFdaQUlNNlVTS0hUUThEVFJBVllMSzhDRCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">Open the customer feedback survey in a new window</a>.</p>
+<p><a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aSJBbYh4zU2jcXbOc1vKO48PRhUVzh1EuZMwwTm-BQhUOERFM0xZUzI0Tkc3V0g3OEFRWkNZRzVBTiQlQCN0PWcu" target="_blank" rel="noopener noreferrer">Open the customer feedback survey in a new window</a>.</p>
 
 <iframe
   class="customer-feedback-form"
   title="IAccessible customer feedback survey"
-  src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aSJBbYh4zU2jcXbOc1vKO48PRhUVzh1EuZMwwTm-BQhURFdaQUlNNlVTS0hUUThEVFJBVllMSzhDRCQlQCN0PWcu&amp;embed=true"
+  src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aSJBbYh4zU2jcXbOc1vKO48PRhUVzh1EuZMwwTm-BQhUOERFM0xZUzI0Tkc3V0g3OEFRWkNZRzVBTiQlQCN0PWcu&amp;embed=true"
   loading="eager">
-  <p>Your browser cannot display the embedded survey. <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aSJBbYh4zU2jcXbOc1vKO48PRhUVzh1EuZMwwTm-BQhURFdaQUlNNlVTS0hUUThEVFJBVllMSzhDRCQlQCN0PWcu">Open the customer feedback survey</a>.</p>
+  <p>Your browser cannot display the embedded survey. <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=aSJBbYh4zU2jcXbOc1vKO48PRhUVzh1EuZMwwTm-BQhUOERFM0xZUzI0Tkc3V0g3OEFRWkNZRzVBTiQlQCN0PWcu">Open the customer feedback survey</a>.</p>
 </iframe>
