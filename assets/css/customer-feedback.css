@@ -1,0 +1,12 @@
+.page__title {
+  display: none;
+}
+
+.customer-feedback-form {
+  border: 0;
+  display: block;
+  height: 80vh;
+  margin-top: 1rem;
+  min-height: 44rem;
+  width: 100%;
+}
