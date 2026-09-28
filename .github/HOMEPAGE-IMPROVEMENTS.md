@@ -293,7 +293,8 @@ closing tags that should not be copied into production.
 
 ## Suggested incremental release order
 
-1. Repair and validate existing homepage markup without changing content.
+1. [Completed] Repair and validate existing homepage markup without changing
+   content.
 2. Finalize and publish the homepage value proposition.
 3. Add the "Problems We Solve" section.
 4. Add the "Why IAccessible" differentiators.
